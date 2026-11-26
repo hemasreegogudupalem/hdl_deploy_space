@@ -1,0 +1,31 @@
+METADATA|ActionsTranslation|ActionId|ActionCode|ActionName|Description|Language|SourceSystemId|SourceSystemOwner
+MERGE|ActionsTranslation||SALARY_REVISION|Employee Salary Revision|Revision of employee salary|US|ACT_SAL_REV_001|GRISMO
+MERGE|ActionsTranslation||SALARY_REVISION|مراجعة راتب الموظف|مراجعة راتب الموظف|AR|ACT_SAL_REV_001|GRISMO
+MERGE|ActionsTranslation||SALARY_REVISION|Révision du salaire de l'employé|Révision du salaire de l'employé|FR|ACT_SAL_REV_001|GRISMO
+MERGE|ActionsTranslation||DEPARTMENT_CHANGE|Employee Department Change|Change of employee department|US|ACT_DEPT_CHG_001|GRISMO
+MERGE|ActionsTranslation||DEPARTMENT_CHANGE|تغيير قسم الموظف|تغيير قسم الموظف|AR|ACT_DEPT_CHG_001|GRISMO
+MERGE|ActionsTranslation||DEPARTMENT_CHANGE|Changement de département de l'employé|Changement de département de l'employé|FR|ACT_DEPT_CHG_001|GRISMO
+MERGE|ActionsTranslation||WORK_LOCATION_CHANGE|Employee Work Location Change|Change of employee work location|US|ACT_LOC_CHG_001|GRISMO
+MERGE|ActionsTranslation||WORK_LOCATION_CHANGE|تغيير موقع عمل الموظف|تغيير موقع عمل الموظف|AR|ACT_LOC_CHG_001|GRISMO
+MERGE|ActionsTranslation||WORK_LOCATION_CHANGE|Changement de lieu de travail de l'employé|Changement de lieu de travail de l'employé|FR|ACT_LOC_CHG_001|GRISMO
+MERGE|ActionsTranslation||JOB_CHANGE|Employee Job Change|Change of employee job|US|ACT_JOB_CHG_001|GRISMO
+MERGE|ActionsTranslation||JOB_CHANGE|تغيير وظيفة الموظف|تغيير وظيفة الموظف|AR|ACT_JOB_CHG_001|GRISMO
+MERGE|ActionsTranslation||JOB_CHANGE|Changement d'emploi de l'employé|Changement d'emploi de l'employé|FR|ACT_JOB_CHG_001|GRISMO
+MERGE|ActionsTranslation||GRADE_CHANGE|Employee Grade Change|Change of employee grade|US|ACT_GRADE_CHG_001|GRISMO
+MERGE|ActionsTranslation||GRADE_CHANGE|تغيير درجة الموظف|تغيير درجة الموظف|AR|ACT_GRADE_CHG_001|GRISMO
+MERGE|ActionsTranslation||GRADE_CHANGE|Changement de grade de l'employé|Changement de grade de l'employé|FR|ACT_GRADE_CHG_001|GRISMO
+MERGE|ActionsTranslation||POSITION_CHANGE|Employee Position Change|Change of employee position|US|ACT_POS_CHG_001|GRISMO
+MERGE|ActionsTranslation||POSITION_CHANGE|تغيير منصب الموظف|تغيير منصب الموظف|AR|ACT_POS_CHG_001|GRISMO
+MERGE|ActionsTranslation||POSITION_CHANGE|Changement de poste de l'employé|Changement de poste de l'employé|FR|ACT_POS_CHG_001|GRISMO
+MERGE|ActionsTranslation||MANAGER_CHANGE|Employee Manager Change|Change of employee line manager|US|ACT_MGR_CHG_001|GRISMO
+MERGE|ActionsTranslation||MANAGER_CHANGE|تغيير مدير الموظف|تغيير المدير المباشر للموظف|AR|ACT_MGR_CHG_001|GRISMO
+MERGE|ActionsTranslation||MANAGER_CHANGE|Changement de responsable de l'employé|Changement du responsable hiérarchique de l'employé|FR|ACT_MGR_CHG_001|GRISMO
+MERGE|ActionsTranslation||PROMOTION|Employee Promotion|Promotion of employee to a higher role|US|ACT_PROMO_001|GRISMO
+MERGE|ActionsTranslation||PROMOTION|ترقية الموظف|ترقية الموظف إلى دور أعلى|AR|ACT_PROMO_001|GRISMO
+MERGE|ActionsTranslation||PROMOTION|Promotion de l'employé|Promotion de l'employé à un rôle supérieur|FR|ACT_PROMO_001|GRISMO
+MERGE|ActionsTranslation||NEW_HIRE|Employee New Hire|Hiring of a new employee|US|ACT_NEW_HIRE_001|GRISMO
+MERGE|ActionsTranslation||NEW_HIRE|تعيين موظف جديد|تعيين موظف جديد|AR|ACT_NEW_HIRE_001|GRISMO
+MERGE|ActionsTranslation||NEW_HIRE|Nouvelle embauche de l'employé|Embauche d'un nouvel employé|FR|ACT_NEW_HIRE_001|GRISMO
+MERGE|ActionsTranslation||RESIGNATION|Employee Resignation|Voluntary termination by the employee|US|ACT_RESIGN_001|GRISMO
+MERGE|ActionsTranslation||RESIGNATION|استقالة الموظف|إنهاء طوعي للخدمة من قبل الموظف|AR|ACT_RESIGN_001|GRISMO
+MERGE|ActionsTranslation||RESIGNATION|Démission de l'employé|Cessation volontaire de l'emploi par l'employé|FR|ACT_RESIGN_001|GRISMO

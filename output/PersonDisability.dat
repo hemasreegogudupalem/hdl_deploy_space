@@ -1,0 +1,26 @@
+METADATA|PersonDisability|DisabilityId|DisabilityCode|EffectiveStartDate|EffectiveEndDate|LegislationCode|PersonId|PersonNumber|OrganizationId|OrganizationName|OrganizationClassificationCode|RegistrationId|RegistrationDate|RegistrationExpDate|Category|Description|Degree|QuotaFTE|Reason|WorkRestriction|Status
+MERGE|PersonDisability||SA_HEA_IMP|2025/02/12||SA||EMP1004||||||||hearing impairment|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_J|2025/02/12||SA||EMP1008||||||||Hearing impairment - Deafness|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||SA_PHY_DIS|2025/02/12||SA||EMP1012||||||||physical disability affecting mobility.|40|1||Provide accessible workstation and step-free access where required.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_I|2025/02/12||SA||EMP1016||||||||Visual impairment - Low vision|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||SA_VIS_IMP|2025/02/12||SA||EMP1020||||||||visual impairment|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_I|2025/02/12||SA||EMP1024||||||||Visual impairment - Low vision|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_J|2025/02/12||SA||EMP1028||||||||Hearing impairment - Deafness|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||SA_PSY_DIS|2025/02/12||SA||EMP1032||||||||psychiatric disability|25|1||Use predictable scheduling and agreed workplace support where appropriate.|A
+MERGE|PersonDisability||SA_HEA_IMP|2025/02/12||SA||EMP1036||||||||hearing impairment|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||SA_PSY_DIS|2025/02/12||SA||EMP1040||||||||psychiatric disability|25|1||Use predictable scheduling and agreed workplace support where appropriate.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_M|2025/02/12||SA||EMP1044||||||||Intellectual disability - Specific learning disability|50|1||Provide clear, step-by-step written instructions where appropriate.|A
+MERGE|PersonDisability||SA_HEA_IMP|2025/02/12||SA||EMP1048||||||||hearing impairment|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_J|2025/02/12||SA||EMP1052||||||||Hearing impairment - Deafness|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||SA_HEA_IMP|2025/02/12||SA||EMP1056||||||||hearing impairment|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||SA_VIS_IMP|2025/02/12||SA||EMP1060||||||||visual impairment|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||SA_VIS_IMP|2025/02/12||SA||EMP1064||||||||visual impairment|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||SA_PSY_DIS|2025/02/12||SA||EMP1068||||||||psychiatric disability|25|1||Use predictable scheduling and agreed workplace support where appropriate.|A
+MERGE|PersonDisability||SA_PSY_DIS|2025/02/12||SA||EMP1072||||||||psychiatric disability|25|1||Use predictable scheduling and agreed workplace support where appropriate.|A
+MERGE|PersonDisability||ORA_HRX_IN_DIS_J|2025/02/12||SA||EMP1076||||||||Hearing impairment - Deafness|25|1||Use written instructions or visual alerts where practical.|A
+MERGE|PersonDisability||SA_PHY_DIS|2025/02/12||SA||EMP1080||||||||Physical disability|25|1||Use predictable scheduling and agreed workplace support where appropriate.|A
+MERGE|PersonDisability||SA_VIS_IMP|2025/02/12||SA||EMP1084||||||||visual impairment|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||ORA_HRX_MENTAL_D|2025/02/12||SA||EMP1088||||||||Mental disorder|25|1||Use predictable scheduling and agreed workplace support where appropriate.|A
+MERGE|PersonDisability||SA_INT_DIS|2025/02/12||SA||EMP1092||||||||intellectual disability|50|1||Provide clear, step-by-step written instructions where appropriate.|A
+MERGE|PersonDisability||SA_VIS_IMP|2025/02/12||SA||EMP1096||||||||visual impairment|30|1||Provide screen magnification or accessible display settings.|A
+MERGE|PersonDisability||SA_INT_DIS|2025/02/12||SA||EMP1100||||||||intellectual disability|50|1||Provide clear, step-by-step written instructions where appropriate.|A

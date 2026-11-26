@@ -1,0 +1,1110 @@
+METADATA|Assignment|PeriodOfServiceId(SourceSystemId)|PersonId(SourceSystemId)|ActionCode|EffectiveStartDate|EffectiveSequence|EffectiveLatestChange|WorkTermsAssignmentId(SourceSystemId)|AssignmentNumber|AssignmentStatusTypeCode|PersonTypeCode|BusinessUnitShortCode|PrimaryFlag|PrimaryAssignmentFlag|AssignmentCategory|DepartmentName|FullPartTime|LocationCode|WorkTermsNumber|AssignmentType|WorkerCategory|JobCode|SourceSystemId|SourceSystemOwner
+MERGE|Assignment|wr_1001|wor_1001||2020/01/01|1|Y|wt_1001|E1001|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1001|E|Regular|SOFTWARE_ENGINEER|asg_1001|GRISMO
+MERGE|Assignment|wr_1002|wor_1002||2021/02/01|1|Y|wt_1002|E1002|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1002|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1002|GRISMO
+MERGE|Assignment|wr_1003|wor_1003||2022/03/04|1|Y|wt_1003|E1003|ACTIVE_PROCESS|||Y|Y||Finance|||ET1003|E|Contract|DATA_ANALYST|asg_1003|GRISMO
+MERGE|Assignment|wr_1004|wor_1004||2023/04/04|1|Y|wt_1004|E1004|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1004|E|Intern|HR_SPECIALIST|asg_1004|GRISMO
+MERGE|Assignment|wr_1005|wor_1005||2024/05/04|1|Y|wt_1005|E1005|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1005|E|Regular|PAYROLL_SPECIALIST|asg_1005|GRISMO
+MERGE|Assignment|wr_1006|wor_1006||2025/06/05|1|Y|wt_1006|E1006|ACTIVE_PROCESS|||Y|Y||Product|||ET1006|E|Temporary|QA_ENGINEER|asg_1006|GRISMO
+MERGE|Assignment|wr_1007|wor_1007||2020/07/05|1|Y|wt_1007|E1007|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1007|E|Contract|BUSINESS_ANALYST|asg_1007|GRISMO
+MERGE|Assignment|wr_1008|wor_1008||2021/08/06|1|Y|wt_1008|E1008|ACTIVE_PROCESS|||Y|Y||Operations|||ET1008|E|Intern|PRODUCT_MANAGER|asg_1008|GRISMO
+MERGE|Assignment|wr_1009|wor_1009||2022/09/06|1|Y|wt_1009|E1009|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1009|E|Regular|SYSTEM_ADMINISTRATOR|asg_1009|GRISMO
+MERGE|Assignment|wr_1010|wor_1010||2023/10/07|1|Y|wt_1010|E1010|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1010|E|Temporary|FINANCE_ASSOCIATE|asg_1010|GRISMO
+MERGE|Assignment|wr_1011|wor_1011||2024/11/06|1|Y|wt_1011|E1011|ACTIVE_PROCESS|||Y|Y||Finance|||ET1011|E|Contract|CLOUD_ENGINEER|asg_1011|GRISMO
+MERGE|Assignment|wr_1012|wor_1012||2025/12/08|1|Y|wt_1012|E1012|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1012|E|Intern|DATABASE_ADMINISTRATOR|asg_1012|GRISMO
+MERGE|Assignment|wr_1013|wor_1013||2020/01/23|1|Y|wt_1013|E1013|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1013|E|Regular|SOFTWARE_ENGINEER|asg_1013|GRISMO
+MERGE|Assignment|wr_1014|wor_1014||2021/02/23|1|Y|wt_1014|E1014|ACTIVE_PROCESS|||Y|Y||Product|||ET1014|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1014|GRISMO
+MERGE|Assignment|wr_1015|wor_1015||2022/03/26|1|Y|wt_1015|E1015|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1015|E|Contract|DATA_ANALYST|asg_1015|GRISMO
+MERGE|Assignment|wr_1016|wor_1016||2023/04/26|1|Y|wt_1016|E1016|ACTIVE_PROCESS|||Y|Y||Operations|||ET1016|E|Intern|HR_SPECIALIST|asg_1016|GRISMO
+MERGE|Assignment|wr_1017|wor_1017||2024/05/26|1|Y|wt_1017|E1017|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1017|E|Regular|PAYROLL_SPECIALIST|asg_1017|GRISMO
+MERGE|Assignment|wr_1018|wor_1018||2025/06/27|1|Y|wt_1018|E1018|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1018|E|Temporary|QA_ENGINEER|asg_1018|GRISMO
+MERGE|Assignment|wr_1019|wor_1019||2020/07/27|1|Y|wt_1019|E1019|ACTIVE_PROCESS|||Y|Y||Finance|||ET1019|E|Contract|BUSINESS_ANALYST|asg_1019|GRISMO
+MERGE|Assignment|wr_1020|wor_1020||2021/08/28|1|Y|wt_1020|E1020|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1020|E|Intern|PRODUCT_MANAGER|asg_1020|GRISMO
+MERGE|Assignment|wr_1021|wor_1021||2022/09/28|1|Y|wt_1021|E1021|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1021|E|Regular|SYSTEM_ADMINISTRATOR|asg_1021|GRISMO
+MERGE|Assignment|wr_1022|wor_1022||2023/10/29|1|Y|wt_1022|E1022|ACTIVE_PROCESS|||Y|Y||Product|||ET1022|E|Temporary|FINANCE_ASSOCIATE|asg_1022|GRISMO
+MERGE|Assignment|wr_1023|wor_1023||2024/11/28|1|Y|wt_1023|E1023|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1023|E|Contract|CLOUD_ENGINEER|asg_1023|GRISMO
+MERGE|Assignment|wr_1024|wor_1024||2025/01/14|1|Y|wt_1024|E1024|ACTIVE_PROCESS|||Y|Y||Operations|||ET1024|E|Intern|DATABASE_ADMINISTRATOR|asg_1024|GRISMO
+MERGE|Assignment|wr_1025|wor_1025||2020/02/14|1|Y|wt_1025|E1025|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1025|E|Regular|SOFTWARE_ENGINEER|asg_1025|GRISMO
+MERGE|Assignment|wr_1026|wor_1026||2021/03/17|1|Y|wt_1026|E1026|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1026|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1026|GRISMO
+MERGE|Assignment|wr_1027|wor_1027||2022/04/17|1|Y|wt_1027|E1027|ACTIVE_PROCESS|||Y|Y||Finance|||ET1027|E|Contract|DATA_ANALYST|asg_1027|GRISMO
+MERGE|Assignment|wr_1028|wor_1028||2023/05/18|1|Y|wt_1028|E1028|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1028|E|Intern|HR_SPECIALIST|asg_1028|GRISMO
+MERGE|Assignment|wr_1029|wor_1029||2024/06/17|1|Y|wt_1029|E1029|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1029|E|Regular|PAYROLL_SPECIALIST|asg_1029|GRISMO
+MERGE|Assignment|wr_1030|wor_1030||2025/07/19|1|Y|wt_1030|E1030|ACTIVE_PROCESS|||Y|Y||Product|||ET1030|E|Temporary|QA_ENGINEER|asg_1030|GRISMO
+MERGE|Assignment|wr_1031|wor_1031||2020/08/18|1|Y|wt_1031|E1031|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1031|E|Contract|BUSINESS_ANALYST|asg_1031|GRISMO
+MERGE|Assignment|wr_1032|wor_1032||2021/09/19|1|Y|wt_1032|E1032|ACTIVE_PROCESS|||Y|Y||Operations|||ET1032|E|Intern|PRODUCT_MANAGER|asg_1032|GRISMO
+MERGE|Assignment|wr_1033|wor_1033||2022/10/20|1|Y|wt_1033|E1033|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1033|E|Regular|SYSTEM_ADMINISTRATOR|asg_1033|GRISMO
+MERGE|Assignment|wr_1034|wor_1034||2023/11/20|1|Y|wt_1034|E1034|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1034|E|Temporary|FINANCE_ASSOCIATE|asg_1034|GRISMO
+MERGE|Assignment|wr_1035|wor_1035||2024/01/05|1|Y|wt_1035|E1035|ACTIVE_PROCESS|||Y|Y||Finance|||ET1035|E|Contract|CLOUD_ENGINEER|asg_1035|GRISMO
+MERGE|Assignment|wr_1036|wor_1036||2025/02/05|1|Y|wt_1036|E1036|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1036|E|Intern|DATABASE_ADMINISTRATOR|asg_1036|GRISMO
+MERGE|Assignment|wr_1037|wor_1037||2020/03/07|1|Y|wt_1037|E1037|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1037|E|Regular|SOFTWARE_ENGINEER|asg_1037|GRISMO
+MERGE|Assignment|wr_1038|wor_1038||2021/04/08|1|Y|wt_1038|E1038|ACTIVE_PROCESS|||Y|Y||Product|||ET1038|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1038|GRISMO
+MERGE|Assignment|wr_1039|wor_1039||2022/05/09|1|Y|wt_1039|E1039|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1039|E|Contract|DATA_ANALYST|asg_1039|GRISMO
+MERGE|Assignment|wr_1040|wor_1040||2023/06/09|1|Y|wt_1040|E1040|ACTIVE_PROCESS|||Y|Y||Operations|||ET1040|E|Intern|HR_SPECIALIST|asg_1040|GRISMO
+MERGE|Assignment|wr_1041|wor_1041||2024/07/09|1|Y|wt_1041|E1041|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1041|E|Regular|PAYROLL_SPECIALIST|asg_1041|GRISMO
+MERGE|Assignment|wr_1042|wor_1042||2025/08/10|1|Y|wt_1042|E1042|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1042|E|Temporary|QA_ENGINEER|asg_1042|GRISMO
+MERGE|Assignment|wr_1043|wor_1043||2020/09/09|1|Y|wt_1043|E1043|ACTIVE_PROCESS|||Y|Y||Finance|||ET1043|E|Contract|BUSINESS_ANALYST|asg_1043|GRISMO
+MERGE|Assignment|wr_1044|wor_1044||2021/10/11|1|Y|wt_1044|E1044|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1044|E|Intern|PRODUCT_MANAGER|asg_1044|GRISMO
+MERGE|Assignment|wr_1045|wor_1045||2022/11/11|1|Y|wt_1045|E1045|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1045|E|Regular|SYSTEM_ADMINISTRATOR|asg_1045|GRISMO
+MERGE|Assignment|wr_1046|wor_1046||2023/12/12|1|Y|wt_1046|E1046|ACTIVE_PROCESS|||Y|Y||Product|||ET1046|E|Temporary|FINANCE_ASSOCIATE|asg_1046|GRISMO
+MERGE|Assignment|wr_1047|wor_1047||2024/01/27|1|Y|wt_1047|E1047|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1047|E|Contract|CLOUD_ENGINEER|asg_1047|GRISMO
+MERGE|Assignment|wr_1048|wor_1048||2025/02/27|1|Y|wt_1048|E1048|ACTIVE_PROCESS|||Y|Y||Operations|||ET1048|E|Intern|DATABASE_ADMINISTRATOR|asg_1048|GRISMO
+MERGE|Assignment|wr_1049|wor_1049||2020/03/29|1|Y|wt_1049|E1049|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1049|E|Regular|SOFTWARE_ENGINEER|asg_1049|GRISMO
+MERGE|Assignment|wr_1050|wor_1050||2021/04/30|1|Y|wt_1050|E1050|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1050|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1050|GRISMO
+MERGE|Assignment|wr_1051|wor_1051||2022/05/31|1|Y|wt_1051|E1051|ACTIVE_PROCESS|||Y|Y||Finance|||ET1051|E|Contract|DATA_ANALYST|asg_1051|GRISMO
+MERGE|Assignment|wr_1052|wor_1052||2023/07/01|1|Y|wt_1052|E1052|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1052|E|Intern|HR_SPECIALIST|asg_1052|GRISMO
+MERGE|Assignment|wr_1053|wor_1053||2024/07/31|1|Y|wt_1053|E1053|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1053|E|Regular|PAYROLL_SPECIALIST|asg_1053|GRISMO
+MERGE|Assignment|wr_1054|wor_1054||2025/09/01|1|Y|wt_1054|E1054|ACTIVE_PROCESS|||Y|Y||Product|||ET1054|E|Temporary|QA_ENGINEER|asg_1054|GRISMO
+MERGE|Assignment|wr_1055|wor_1055||2020/10/01|1|Y|wt_1055|E1055|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1055|E|Contract|BUSINESS_ANALYST|asg_1055|GRISMO
+MERGE|Assignment|wr_1056|wor_1056||2021/11/02|1|Y|wt_1056|E1056|ACTIVE_PROCESS|||Y|Y||Operations|||ET1056|E|Intern|PRODUCT_MANAGER|asg_1056|GRISMO
+MERGE|Assignment|wr_1057|wor_1057||2022/12/03|1|Y|wt_1057|E1057|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1057|E|Regular|SYSTEM_ADMINISTRATOR|asg_1057|GRISMO
+MERGE|Assignment|wr_1058|wor_1058||2023/01/18|1|Y|wt_1058|E1058|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1058|E|Temporary|FINANCE_ASSOCIATE|asg_1058|GRISMO
+MERGE|Assignment|wr_1059|wor_1059||2024/02/18|1|Y|wt_1059|E1059|ACTIVE_PROCESS|||Y|Y||Finance|||ET1059|E|Contract|CLOUD_ENGINEER|asg_1059|GRISMO
+MERGE|Assignment|wr_1060|wor_1060||2025/03/21|1|Y|wt_1060|E1060|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1060|E|Intern|DATABASE_ADMINISTRATOR|asg_1060|GRISMO
+MERGE|Assignment|wr_1061|wor_1061||2020/04/20|1|Y|wt_1061|E1061|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1061|E|Regular|SOFTWARE_ENGINEER|asg_1061|GRISMO
+MERGE|Assignment|wr_1062|wor_1062||2021/05/22|1|Y|wt_1062|E1062|ACTIVE_PROCESS|||Y|Y||Product|||ET1062|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1062|GRISMO
+MERGE|Assignment|wr_1063|wor_1063||2022/06/22|1|Y|wt_1063|E1063|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1063|E|Contract|DATA_ANALYST|asg_1063|GRISMO
+MERGE|Assignment|wr_1064|wor_1064||2023/07/23|1|Y|wt_1064|E1064|ACTIVE_PROCESS|||Y|Y||Operations|||ET1064|E|Intern|HR_SPECIALIST|asg_1064|GRISMO
+MERGE|Assignment|wr_1065|wor_1065||2024/08/22|1|Y|wt_1065|E1065|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1065|E|Regular|PAYROLL_SPECIALIST|asg_1065|GRISMO
+MERGE|Assignment|wr_1066|wor_1066||2025/09/23|1|Y|wt_1066|E1066|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1066|E|Temporary|QA_ENGINEER|asg_1066|GRISMO
+MERGE|Assignment|wr_1067|wor_1067||2020/10/23|1|Y|wt_1067|E1067|ACTIVE_PROCESS|||Y|Y||Finance|||ET1067|E|Contract|BUSINESS_ANALYST|asg_1067|GRISMO
+MERGE|Assignment|wr_1068|wor_1068||2021/11/24|1|Y|wt_1068|E1068|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1068|E|Intern|PRODUCT_MANAGER|asg_1068|GRISMO
+MERGE|Assignment|wr_1069|wor_1069||2022/01/09|1|Y|wt_1069|E1069|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1069|E|Regular|SYSTEM_ADMINISTRATOR|asg_1069|GRISMO
+MERGE|Assignment|wr_1070|wor_1070||2023/02/09|1|Y|wt_1070|E1070|ACTIVE_PROCESS|||Y|Y||Product|||ET1070|E|Temporary|FINANCE_ASSOCIATE|asg_1070|GRISMO
+MERGE|Assignment|wr_1071|wor_1071||2024/03/11|1|Y|wt_1071|E1071|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1071|E|Contract|CLOUD_ENGINEER|asg_1071|GRISMO
+MERGE|Assignment|wr_1072|wor_1072||2025/04/12|1|Y|wt_1072|E1072|ACTIVE_PROCESS|||Y|Y||Operations|||ET1072|E|Intern|DATABASE_ADMINISTRATOR|asg_1072|GRISMO
+MERGE|Assignment|wr_1073|wor_1073||2020/05/12|1|Y|wt_1073|E1073|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1073|E|Regular|SOFTWARE_ENGINEER|asg_1073|GRISMO
+MERGE|Assignment|wr_1074|wor_1074||2021/06/13|1|Y|wt_1074|E1074|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1074|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1074|GRISMO
+MERGE|Assignment|wr_1075|wor_1075||2022/07/14|1|Y|wt_1075|E1075|ACTIVE_PROCESS|||Y|Y||Finance|||ET1075|E|Contract|DATA_ANALYST|asg_1075|GRISMO
+MERGE|Assignment|wr_1076|wor_1076||2023/08/14|1|Y|wt_1076|E1076|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1076|E|Intern|HR_SPECIALIST|asg_1076|GRISMO
+MERGE|Assignment|wr_1077|wor_1077||2024/09/13|1|Y|wt_1077|E1077|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1077|E|Regular|PAYROLL_SPECIALIST|asg_1077|GRISMO
+MERGE|Assignment|wr_1078|wor_1078||2025/10/15|1|Y|wt_1078|E1078|ACTIVE_PROCESS|||Y|Y||Product|||ET1078|E|Temporary|QA_ENGINEER|asg_1078|GRISMO
+MERGE|Assignment|wr_1079|wor_1079||2020/11/14|1|Y|wt_1079|E1079|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1079|E|Contract|BUSINESS_ANALYST|asg_1079|GRISMO
+MERGE|Assignment|wr_1080|wor_1080||2021/12/16|1|Y|wt_1080|E1080|ACTIVE_PROCESS|||Y|Y||Operations|||ET1080|E|Intern|PRODUCT_MANAGER|asg_1080|GRISMO
+MERGE|Assignment|wr_1081|wor_1081||2022/01/31|1|Y|wt_1081|E1081|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1081|E|Regular|SYSTEM_ADMINISTRATOR|asg_1081|GRISMO
+MERGE|Assignment|wr_1082|wor_1082||2023/03/03|1|Y|wt_1082|E1082|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1082|E|Temporary|FINANCE_ASSOCIATE|asg_1082|GRISMO
+MERGE|Assignment|wr_1083|wor_1083||2024/04/02|1|Y|wt_1083|E1083|ACTIVE_PROCESS|||Y|Y||Finance|||ET1083|E|Contract|CLOUD_ENGINEER|asg_1083|GRISMO
+MERGE|Assignment|wr_1084|wor_1084||2025/05/04|1|Y|wt_1084|E1084|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1084|E|Intern|DATABASE_ADMINISTRATOR|asg_1084|GRISMO
+MERGE|Assignment|wr_1085|wor_1085||2020/06/03|1|Y|wt_1085|E1085|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1085|E|Regular|SOFTWARE_ENGINEER|asg_1085|GRISMO
+MERGE|Assignment|wr_1086|wor_1086||2021/07/05|1|Y|wt_1086|E1086|ACTIVE_PROCESS|||Y|Y||Product|||ET1086|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1086|GRISMO
+MERGE|Assignment|wr_1087|wor_1087||2022/08/05|1|Y|wt_1087|E1087|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1087|E|Contract|DATA_ANALYST|asg_1087|GRISMO
+MERGE|Assignment|wr_1088|wor_1088||2023/09/05|1|Y|wt_1088|E1088|ACTIVE_PROCESS|||Y|Y||Operations|||ET1088|E|Intern|HR_SPECIALIST|asg_1088|GRISMO
+MERGE|Assignment|wr_1089|wor_1089||2024/10/05|1|Y|wt_1089|E1089|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1089|E|Regular|PAYROLL_SPECIALIST|asg_1089|GRISMO
+MERGE|Assignment|wr_1090|wor_1090||2025/11/06|1|Y|wt_1090|E1090|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1090|E|Temporary|QA_ENGINEER|asg_1090|GRISMO
+MERGE|Assignment|wr_1091|wor_1091||2020/12/06|1|Y|wt_1091|E1091|ACTIVE_PROCESS|||Y|Y||Finance|||ET1091|E|Contract|BUSINESS_ANALYST|asg_1091|GRISMO
+MERGE|Assignment|wr_1092|wor_1092||2021/01/22|1|Y|wt_1092|E1092|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1092|E|Intern|PRODUCT_MANAGER|asg_1092|GRISMO
+MERGE|Assignment|wr_1093|wor_1093||2022/02/22|1|Y|wt_1093|E1093|ACTIVE_PROCESS|||Y|Y||Quality Assurance|||ET1093|E|Regular|SYSTEM_ADMINISTRATOR|asg_1093|GRISMO
+MERGE|Assignment|wr_1094|wor_1094||2023/03/25|1|Y|wt_1094|E1094|ACTIVE_PROCESS|||Y|Y||Product|||ET1094|E|Temporary|FINANCE_ASSOCIATE|asg_1094|GRISMO
+MERGE|Assignment|wr_1095|wor_1095||2024/04/24|1|Y|wt_1095|E1095|ACTIVE_PROCESS|||Y|Y||Information Technology|||ET1095|E|Contract|CLOUD_ENGINEER|asg_1095|GRISMO
+MERGE|Assignment|wr_1096|wor_1096||2025/05/26|1|Y|wt_1096|E1096|ACTIVE_PROCESS|||Y|Y||Operations|||ET1096|E|Intern|DATABASE_ADMINISTRATOR|asg_1096|GRISMO
+MERGE|Assignment|wr_1097|wor_1097||2020/06/25|1|Y|wt_1097|E1097|ACTIVE_PROCESS|||Y|Y||Engineering|||ET1097|E|Regular|SOFTWARE_ENGINEER|asg_1097|GRISMO
+MERGE|Assignment|wr_1098|wor_1098||2021/07/27|1|Y|wt_1098|E1098|ACTIVE_PROCESS|||Y|Y||Human Resources|||ET1098|E|Temporary|SENIOR_SOFTWARE_ENGINEER|asg_1098|GRISMO
+MERGE|Assignment|wr_1099|wor_1099||2022/08/27|1|Y|wt_1099|E1099|ACTIVE_PROCESS|||Y|Y||Finance|||ET1099|E|Contract|DATA_ANALYST|asg_1099|GRISMO
+MERGE|Assignment|wr_1100|wor_1100||2023/09/27|1|Y|wt_1100|E1100|ACTIVE_PROCESS|||Y|Y||Data Analytics|||ET1100|E|Intern|HR_SPECIALIST|asg_1100|GRISMO
+METADATA|PersonAddress|EffectiveStartDate|EffectiveEndDate|AddressType|PersonId(SourceSystemId)|AddressLine1|AddressLine2|AddressLine3|AddressLine4|Building|FloorNumber|TownOrCity|Region1|Region2|Region3|Country|PostalCode|SourceSystemId|SourceSystemOwner
+MERGE|PersonAddress|2020/01/01||HOME|wor_1001|Building 10, King Fahd Road, Al Olaya, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1001|GRISMO
+MERGE|PersonAddress|2021/02/01||HOME|wor_1002|Building 11, Olaya Street, Al Malaz, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1002|GRISMO
+MERGE|PersonAddress|2022/03/04||HOME|wor_1003|Building 12, Prince Sultan Road, Al Yasmin, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1003|GRISMO
+MERGE|PersonAddress|2023/04/04||HOME|wor_1004|Building 13, King Abdullah Road, Al Rawdah, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1004|GRISMO
+MERGE|PersonAddress|2024/05/04||HOME|wor_1005|Building 14, Tahlia Street, Al Hamra, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1005|GRISMO
+MERGE|PersonAddress|2025/06/05||HOME|wor_1006|Building 15, Al Madinah Road, Al Faisaliyah, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1006|GRISMO
+MERGE|PersonAddress|2020/07/05||HOME|wor_1007|Building 16, King Abdulaziz Road, Al Nakheel, Abha, Saudi Arabia||||||Abha||||SA||pa_1007|GRISMO
+MERGE|PersonAddress|2021/08/06||HOME|wor_1008|Building 17, Corniche Road, Al Zahra, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1008|GRISMO
+MERGE|PersonAddress|2022/09/06||HOME|wor_1009|Building 18, King Fahd Road, Al Olaya, Taif, Saudi Arabia||||||Taif||||SA||pa_1009|GRISMO
+MERGE|PersonAddress|2023/10/07||HOME|wor_1010|Building 19, Olaya Street, Al Malaz, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1010|GRISMO
+MERGE|PersonAddress|2024/11/06||HOME|wor_1011|Building 20, Prince Sultan Road, Al Yasmin, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1011|GRISMO
+MERGE|PersonAddress|2025/12/08||HOME|wor_1012|Building 21, King Abdullah Road, Al Rawdah, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1012|GRISMO
+MERGE|PersonAddress|2020/01/23||HOME|wor_1013|Building 22, Tahlia Street, Al Hamra, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1013|GRISMO
+MERGE|PersonAddress|2021/02/23||HOME|wor_1014|Building 23, Al Madinah Road, Al Faisaliyah, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1014|GRISMO
+MERGE|PersonAddress|2022/03/26||HOME|wor_1015|Building 24, King Abdulaziz Road, Al Nakheel, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1015|GRISMO
+MERGE|PersonAddress|2023/04/26||HOME|wor_1016|Building 25, Corniche Road, Al Zahra, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1016|GRISMO
+MERGE|PersonAddress|2024/05/26||HOME|wor_1017|Building 26, King Fahd Road, Al Olaya, Abha, Saudi Arabia||||||Abha||||SA||pa_1017|GRISMO
+MERGE|PersonAddress|2025/06/27||HOME|wor_1018|Building 27, Olaya Street, Al Malaz, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1018|GRISMO
+MERGE|PersonAddress|2020/07/27||HOME|wor_1019|Building 28, Prince Sultan Road, Al Yasmin, Taif, Saudi Arabia||||||Taif||||SA||pa_1019|GRISMO
+MERGE|PersonAddress|2021/08/28||HOME|wor_1020|Building 29, King Abdullah Road, Al Rawdah, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1020|GRISMO
+MERGE|PersonAddress|2022/09/28||HOME|wor_1021|Building 30, Tahlia Street, Al Hamra, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1021|GRISMO
+MERGE|PersonAddress|2023/10/29||HOME|wor_1022|Building 31, Al Madinah Road, Al Faisaliyah, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1022|GRISMO
+MERGE|PersonAddress|2024/11/28||HOME|wor_1023|Building 32, King Abdulaziz Road, Al Nakheel, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1023|GRISMO
+MERGE|PersonAddress|2025/01/14||HOME|wor_1024|Building 33, Corniche Road, Al Zahra, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1024|GRISMO
+MERGE|PersonAddress|2020/02/14||HOME|wor_1025|Building 34, King Fahd Road, Al Olaya, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1025|GRISMO
+MERGE|PersonAddress|2021/03/17||HOME|wor_1026|Building 35, Olaya Street, Al Malaz, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1026|GRISMO
+MERGE|PersonAddress|2022/04/17||HOME|wor_1027|Building 36, Prince Sultan Road, Al Yasmin, Abha, Saudi Arabia||||||Abha||||SA||pa_1027|GRISMO
+MERGE|PersonAddress|2023/05/18||HOME|wor_1028|Building 37, King Abdullah Road, Al Rawdah, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1028|GRISMO
+MERGE|PersonAddress|2024/06/17||HOME|wor_1029|Building 38, Tahlia Street, Al Hamra, Taif, Saudi Arabia||||||Taif||||SA||pa_1029|GRISMO
+MERGE|PersonAddress|2025/07/19||HOME|wor_1030|Building 39, Al Madinah Road, Al Faisaliyah, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1030|GRISMO
+MERGE|PersonAddress|2020/08/18||HOME|wor_1031|Building 40, King Abdulaziz Road, Al Nakheel, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1031|GRISMO
+MERGE|PersonAddress|2021/09/19||HOME|wor_1032|Building 41, Corniche Road, Al Zahra, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1032|GRISMO
+MERGE|PersonAddress|2022/10/20||HOME|wor_1033|Building 42, King Fahd Road, Al Olaya, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1033|GRISMO
+MERGE|PersonAddress|2023/11/20||HOME|wor_1034|Building 43, Olaya Street, Al Malaz, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1034|GRISMO
+MERGE|PersonAddress|2024/01/05||HOME|wor_1035|Building 44, Prince Sultan Road, Al Yasmin, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1035|GRISMO
+MERGE|PersonAddress|2025/02/05||HOME|wor_1036|Building 45, King Abdullah Road, Al Rawdah, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1036|GRISMO
+MERGE|PersonAddress|2020/03/07||HOME|wor_1037|Building 46, Tahlia Street, Al Hamra, Abha, Saudi Arabia||||||Abha||||SA||pa_1037|GRISMO
+MERGE|PersonAddress|2021/04/08||HOME|wor_1038|Building 47, Al Madinah Road, Al Faisaliyah, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1038|GRISMO
+MERGE|PersonAddress|2022/05/09||HOME|wor_1039|Building 48, King Abdulaziz Road, Al Nakheel, Taif, Saudi Arabia||||||Taif||||SA||pa_1039|GRISMO
+MERGE|PersonAddress|2023/06/09||HOME|wor_1040|Building 49, Corniche Road, Al Zahra, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1040|GRISMO
+MERGE|PersonAddress|2024/07/09||HOME|wor_1041|Building 50, King Fahd Road, Al Olaya, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1041|GRISMO
+MERGE|PersonAddress|2025/08/10||HOME|wor_1042|Building 51, Olaya Street, Al Malaz, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1042|GRISMO
+MERGE|PersonAddress|2020/09/09||HOME|wor_1043|Building 52, Prince Sultan Road, Al Yasmin, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1043|GRISMO
+MERGE|PersonAddress|2021/10/11||HOME|wor_1044|Building 53, King Abdullah Road, Al Rawdah, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1044|GRISMO
+MERGE|PersonAddress|2022/11/11||HOME|wor_1045|Building 54, Tahlia Street, Al Hamra, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1045|GRISMO
+MERGE|PersonAddress|2023/12/12||HOME|wor_1046|Building 55, Al Madinah Road, Al Faisaliyah, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1046|GRISMO
+MERGE|PersonAddress|2024/01/27||HOME|wor_1047|Building 56, King Abdulaziz Road, Al Nakheel, Abha, Saudi Arabia||||||Abha||||SA||pa_1047|GRISMO
+MERGE|PersonAddress|2025/02/27||HOME|wor_1048|Building 57, Corniche Road, Al Zahra, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1048|GRISMO
+MERGE|PersonAddress|2020/03/29||HOME|wor_1049|Building 58, King Fahd Road, Al Olaya, Taif, Saudi Arabia||||||Taif||||SA||pa_1049|GRISMO
+MERGE|PersonAddress|2021/04/30||HOME|wor_1050|Building 59, Olaya Street, Al Malaz, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1050|GRISMO
+MERGE|PersonAddress|2022/05/31||HOME|wor_1051|Building 60, Prince Sultan Road, Al Yasmin, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1051|GRISMO
+MERGE|PersonAddress|2023/07/01||HOME|wor_1052|Building 61, King Abdullah Road, Al Rawdah, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1052|GRISMO
+MERGE|PersonAddress|2024/07/31||HOME|wor_1053|Building 62, Tahlia Street, Al Hamra, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1053|GRISMO
+MERGE|PersonAddress|2025/09/01||HOME|wor_1054|Building 63, Al Madinah Road, Al Faisaliyah, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1054|GRISMO
+MERGE|PersonAddress|2020/10/01||HOME|wor_1055|Building 64, King Abdulaziz Road, Al Nakheel, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1055|GRISMO
+MERGE|PersonAddress|2021/11/02||HOME|wor_1056|Building 65, Corniche Road, Al Zahra, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1056|GRISMO
+MERGE|PersonAddress|2022/12/03||HOME|wor_1057|Building 66, King Fahd Road, Al Olaya, Abha, Saudi Arabia||||||Abha||||SA||pa_1057|GRISMO
+MERGE|PersonAddress|2023/01/18||HOME|wor_1058|Building 67, Olaya Street, Al Malaz, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1058|GRISMO
+MERGE|PersonAddress|2024/02/18||HOME|wor_1059|Building 68, Prince Sultan Road, Al Yasmin, Taif, Saudi Arabia||||||Taif||||SA||pa_1059|GRISMO
+MERGE|PersonAddress|2025/03/21||HOME|wor_1060|Building 69, King Abdullah Road, Al Rawdah, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1060|GRISMO
+MERGE|PersonAddress|2020/04/20||HOME|wor_1061|Building 70, Tahlia Street, Al Hamra, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1061|GRISMO
+MERGE|PersonAddress|2021/05/22||HOME|wor_1062|Building 71, Al Madinah Road, Al Faisaliyah, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1062|GRISMO
+MERGE|PersonAddress|2022/06/22||HOME|wor_1063|Building 72, King Abdulaziz Road, Al Nakheel, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1063|GRISMO
+MERGE|PersonAddress|2023/07/23||HOME|wor_1064|Building 73, Corniche Road, Al Zahra, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1064|GRISMO
+MERGE|PersonAddress|2024/08/22||HOME|wor_1065|Building 74, King Fahd Road, Al Olaya, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1065|GRISMO
+MERGE|PersonAddress|2025/09/23||HOME|wor_1066|Building 75, Olaya Street, Al Malaz, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1066|GRISMO
+MERGE|PersonAddress|2020/10/23||HOME|wor_1067|Building 76, Prince Sultan Road, Al Yasmin, Abha, Saudi Arabia||||||Abha||||SA||pa_1067|GRISMO
+MERGE|PersonAddress|2021/11/24||HOME|wor_1068|Building 77, King Abdullah Road, Al Rawdah, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1068|GRISMO
+MERGE|PersonAddress|2022/01/09||HOME|wor_1069|Building 78, Tahlia Street, Al Hamra, Taif, Saudi Arabia||||||Taif||||SA||pa_1069|GRISMO
+MERGE|PersonAddress|2023/02/09||HOME|wor_1070|Building 79, Al Madinah Road, Al Faisaliyah, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1070|GRISMO
+MERGE|PersonAddress|2024/03/11||HOME|wor_1071|Building 80, King Abdulaziz Road, Al Nakheel, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1071|GRISMO
+MERGE|PersonAddress|2025/04/12||HOME|wor_1072|Building 81, Corniche Road, Al Zahra, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1072|GRISMO
+MERGE|PersonAddress|2020/05/12||HOME|wor_1073|Building 82, King Fahd Road, Al Olaya, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1073|GRISMO
+MERGE|PersonAddress|2021/06/13||HOME|wor_1074|Building 83, Olaya Street, Al Malaz, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1074|GRISMO
+MERGE|PersonAddress|2022/07/14||HOME|wor_1075|Building 84, Prince Sultan Road, Al Yasmin, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1075|GRISMO
+MERGE|PersonAddress|2023/08/14||HOME|wor_1076|Building 85, King Abdullah Road, Al Rawdah, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1076|GRISMO
+MERGE|PersonAddress|2024/09/13||HOME|wor_1077|Building 86, Tahlia Street, Al Hamra, Abha, Saudi Arabia||||||Abha||||SA||pa_1077|GRISMO
+MERGE|PersonAddress|2025/10/15||HOME|wor_1078|Building 87, Al Madinah Road, Al Faisaliyah, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1078|GRISMO
+MERGE|PersonAddress|2020/11/14||HOME|wor_1079|Building 88, King Abdulaziz Road, Al Nakheel, Taif, Saudi Arabia||||||Taif||||SA||pa_1079|GRISMO
+MERGE|PersonAddress|2021/12/16||HOME|wor_1080|Building 89, Corniche Road, Al Zahra, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1080|GRISMO
+MERGE|PersonAddress|2022/01/31||HOME|wor_1081|Building 90, King Fahd Road, Al Olaya, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1081|GRISMO
+MERGE|PersonAddress|2023/03/03||HOME|wor_1082|Building 91, Olaya Street, Al Malaz, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1082|GRISMO
+MERGE|PersonAddress|2024/04/02||HOME|wor_1083|Building 92, Prince Sultan Road, Al Yasmin, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1083|GRISMO
+MERGE|PersonAddress|2025/05/04||HOME|wor_1084|Building 93, King Abdullah Road, Al Rawdah, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1084|GRISMO
+MERGE|PersonAddress|2020/06/03||HOME|wor_1085|Building 94, Tahlia Street, Al Hamra, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1085|GRISMO
+MERGE|PersonAddress|2021/07/05||HOME|wor_1086|Building 95, Al Madinah Road, Al Faisaliyah, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1086|GRISMO
+MERGE|PersonAddress|2022/08/05||HOME|wor_1087|Building 96, King Abdulaziz Road, Al Nakheel, Abha, Saudi Arabia||||||Abha||||SA||pa_1087|GRISMO
+MERGE|PersonAddress|2023/09/05||HOME|wor_1088|Building 97, Corniche Road, Al Zahra, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1088|GRISMO
+MERGE|PersonAddress|2024/10/05||HOME|wor_1089|Building 98, King Fahd Road, Al Olaya, Taif, Saudi Arabia||||||Taif||||SA||pa_1089|GRISMO
+MERGE|PersonAddress|2025/11/06||HOME|wor_1090|Building 99, Olaya Street, Al Malaz, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1090|GRISMO
+MERGE|PersonAddress|2020/12/06||HOME|wor_1091|Building 100, Prince Sultan Road, Al Yasmin, Riyadh, Saudi Arabia||||||Riyadh||||SA||pa_1091|GRISMO
+MERGE|PersonAddress|2021/01/22||HOME|wor_1092|Building 101, King Abdullah Road, Al Rawdah, Jeddah, Saudi Arabia||||||Jeddah||||SA||pa_1092|GRISMO
+MERGE|PersonAddress|2022/02/22||HOME|wor_1093|Building 102, Tahlia Street, Al Hamra, Dammam, Saudi Arabia||||||Dammam||||SA||pa_1093|GRISMO
+MERGE|PersonAddress|2023/03/25||HOME|wor_1094|Building 103, Al Madinah Road, Al Faisaliyah, Makkah, Saudi Arabia||||||Makkah||||SA||pa_1094|GRISMO
+MERGE|PersonAddress|2024/04/24||HOME|wor_1095|Building 104, King Abdulaziz Road, Al Nakheel, Madinah, Saudi Arabia||||||Madinah||||SA||pa_1095|GRISMO
+MERGE|PersonAddress|2025/05/26||HOME|wor_1096|Building 105, Corniche Road, Al Zahra, Khobar, Saudi Arabia||||||Khobar||||SA||pa_1096|GRISMO
+MERGE|PersonAddress|2020/06/25||HOME|wor_1097|Building 106, King Fahd Road, Al Olaya, Abha, Saudi Arabia||||||Abha||||SA||pa_1097|GRISMO
+MERGE|PersonAddress|2021/07/27||HOME|wor_1098|Building 107, Olaya Street, Al Malaz, Tabuk, Saudi Arabia||||||Tabuk||||SA||pa_1098|GRISMO
+MERGE|PersonAddress|2022/08/27||HOME|wor_1099|Building 108, Prince Sultan Road, Al Yasmin, Taif, Saudi Arabia||||||Taif||||SA||pa_1099|GRISMO
+MERGE|PersonAddress|2023/09/27||HOME|wor_1100|Building 109, King Abdullah Road, Al Rawdah, Jubail, Saudi Arabia||||||Jubail||||SA||pa_1100|GRISMO
+METADATA|PersonEmail|PersonNumber|DateFrom|DateTo|EmailType|EmailAddress|SourceSystemOwner|SourceSystemId
+MERGE|PersonEmail|EMP1001|2020/01/01||H1|sa.employee001.personal@example.com|GRISMO|PE_1001
+MERGE|PersonEmail|EMP1001|2020/01/01||W1|sa.employee001@example.com|GRISMO|PE_1001
+MERGE|PersonEmail|EMP1002|2021/02/01||H1|sa.employee002.personal@example.com|GRISMO|PE_1002
+MERGE|PersonEmail|EMP1002|2021/02/01||W1|sa.employee002@example.com|GRISMO|PE_1002
+MERGE|PersonEmail|EMP1003|2022/03/04||H1|sa.employee003.personal@example.com|GRISMO|PE_1003
+MERGE|PersonEmail|EMP1003|2022/03/04||W1|sa.employee003@example.com|GRISMO|PE_1003
+MERGE|PersonEmail|EMP1004|2023/04/04||H1|sa.employee004.personal@example.com|GRISMO|PE_1004
+MERGE|PersonEmail|EMP1004|2023/04/04||W1|sa.employee004@example.com|GRISMO|PE_1004
+MERGE|PersonEmail|EMP1005|2024/05/04||H1|sa.employee005.personal@example.com|GRISMO|PE_1005
+MERGE|PersonEmail|EMP1005|2024/05/04||W1|sa.employee005@example.com|GRISMO|PE_1005
+MERGE|PersonEmail|EMP1006|2025/06/05||H1|sa.employee006.personal@example.com|GRISMO|PE_1006
+MERGE|PersonEmail|EMP1006|2025/06/05||W1|sa.employee006@example.com|GRISMO|PE_1006
+MERGE|PersonEmail|EMP1007|2020/07/05||H1|sa.employee007.personal@example.com|GRISMO|PE_1007
+MERGE|PersonEmail|EMP1007|2020/07/05||W1|sa.employee007@example.com|GRISMO|PE_1007
+MERGE|PersonEmail|EMP1008|2021/08/06||H1|sa.employee008.personal@example.com|GRISMO|PE_1008
+MERGE|PersonEmail|EMP1008|2021/08/06||W1|sa.employee008@example.com|GRISMO|PE_1008
+MERGE|PersonEmail|EMP1009|2022/09/06||H1|sa.employee009.personal@example.com|GRISMO|PE_1009
+MERGE|PersonEmail|EMP1009|2022/09/06||W1|sa.employee009@example.com|GRISMO|PE_1009
+MERGE|PersonEmail|EMP1010|2023/10/07||H1|sa.employee010.personal@example.com|GRISMO|PE_1010
+MERGE|PersonEmail|EMP1010|2023/10/07||W1|sa.employee010@example.com|GRISMO|PE_1010
+MERGE|PersonEmail|EMP1011|2024/11/06||H1|sa.employee011.personal@example.com|GRISMO|PE_1011
+MERGE|PersonEmail|EMP1011|2024/11/06||W1|sa.employee011@example.com|GRISMO|PE_1011
+MERGE|PersonEmail|EMP1012|2025/12/08||H1|sa.employee012.personal@example.com|GRISMO|PE_1012
+MERGE|PersonEmail|EMP1012|2025/12/08||W1|sa.employee012@example.com|GRISMO|PE_1012
+MERGE|PersonEmail|EMP1013|2020/01/23||H1|sa.employee013.personal@example.com|GRISMO|PE_1013
+MERGE|PersonEmail|EMP1013|2020/01/23||W1|sa.employee013@example.com|GRISMO|PE_1013
+MERGE|PersonEmail|EMP1014|2021/02/23||H1|sa.employee014.personal@example.com|GRISMO|PE_1014
+MERGE|PersonEmail|EMP1014|2021/02/23||W1|sa.employee014@example.com|GRISMO|PE_1014
+MERGE|PersonEmail|EMP1015|2022/03/26||H1|sa.employee015.personal@example.com|GRISMO|PE_1015
+MERGE|PersonEmail|EMP1015|2022/03/26||W1|sa.employee015@example.com|GRISMO|PE_1015
+MERGE|PersonEmail|EMP1016|2023/04/26||H1|sa.employee016.personal@example.com|GRISMO|PE_1016
+MERGE|PersonEmail|EMP1016|2023/04/26||W1|sa.employee016@example.com|GRISMO|PE_1016
+MERGE|PersonEmail|EMP1017|2024/05/26||H1|sa.employee017.personal@example.com|GRISMO|PE_1017
+MERGE|PersonEmail|EMP1017|2024/05/26||W1|sa.employee017@example.com|GRISMO|PE_1017
+MERGE|PersonEmail|EMP1018|2025/06/27||H1|sa.employee018.personal@example.com|GRISMO|PE_1018
+MERGE|PersonEmail|EMP1018|2025/06/27||W1|sa.employee018@example.com|GRISMO|PE_1018
+MERGE|PersonEmail|EMP1019|2020/07/27||H1|sa.employee019.personal@example.com|GRISMO|PE_1019
+MERGE|PersonEmail|EMP1019|2020/07/27||W1|sa.employee019@example.com|GRISMO|PE_1019
+MERGE|PersonEmail|EMP1020|2021/08/28||H1|sa.employee020.personal@example.com|GRISMO|PE_1020
+MERGE|PersonEmail|EMP1020|2021/08/28||W1|sa.employee020@example.com|GRISMO|PE_1020
+MERGE|PersonEmail|EMP1021|2022/09/28||H1|sa.employee021.personal@example.com|GRISMO|PE_1021
+MERGE|PersonEmail|EMP1021|2022/09/28||W1|sa.employee021@example.com|GRISMO|PE_1021
+MERGE|PersonEmail|EMP1022|2023/10/29||H1|sa.employee022.personal@example.com|GRISMO|PE_1022
+MERGE|PersonEmail|EMP1022|2023/10/29||W1|sa.employee022@example.com|GRISMO|PE_1022
+MERGE|PersonEmail|EMP1023|2024/11/28||H1|sa.employee023.personal@example.com|GRISMO|PE_1023
+MERGE|PersonEmail|EMP1023|2024/11/28||W1|sa.employee023@example.com|GRISMO|PE_1023
+MERGE|PersonEmail|EMP1024|2025/01/14||H1|sa.employee024.personal@example.com|GRISMO|PE_1024
+MERGE|PersonEmail|EMP1024|2025/01/14||W1|sa.employee024@example.com|GRISMO|PE_1024
+MERGE|PersonEmail|EMP1025|2020/02/14||H1|sa.employee025.personal@example.com|GRISMO|PE_1025
+MERGE|PersonEmail|EMP1025|2020/02/14||W1|sa.employee025@example.com|GRISMO|PE_1025
+MERGE|PersonEmail|EMP1026|2021/03/17||H1|sa.employee026.personal@example.com|GRISMO|PE_1026
+MERGE|PersonEmail|EMP1026|2021/03/17||W1|sa.employee026@example.com|GRISMO|PE_1026
+MERGE|PersonEmail|EMP1027|2022/04/17||H1|sa.employee027.personal@example.com|GRISMO|PE_1027
+MERGE|PersonEmail|EMP1027|2022/04/17||W1|sa.employee027@example.com|GRISMO|PE_1027
+MERGE|PersonEmail|EMP1028|2023/05/18||H1|sa.employee028.personal@example.com|GRISMO|PE_1028
+MERGE|PersonEmail|EMP1028|2023/05/18||W1|sa.employee028@example.com|GRISMO|PE_1028
+MERGE|PersonEmail|EMP1029|2024/06/17||H1|sa.employee029.personal@example.com|GRISMO|PE_1029
+MERGE|PersonEmail|EMP1029|2024/06/17||W1|sa.employee029@example.com|GRISMO|PE_1029
+MERGE|PersonEmail|EMP1030|2025/07/19||H1|sa.employee030.personal@example.com|GRISMO|PE_1030
+MERGE|PersonEmail|EMP1030|2025/07/19||W1|sa.employee030@example.com|GRISMO|PE_1030
+MERGE|PersonEmail|EMP1031|2020/08/18||H1|sa.employee031.personal@example.com|GRISMO|PE_1031
+MERGE|PersonEmail|EMP1031|2020/08/18||W1|sa.employee031@example.com|GRISMO|PE_1031
+MERGE|PersonEmail|EMP1032|2021/09/19||H1|sa.employee032.personal@example.com|GRISMO|PE_1032
+MERGE|PersonEmail|EMP1032|2021/09/19||W1|sa.employee032@example.com|GRISMO|PE_1032
+MERGE|PersonEmail|EMP1033|2022/10/20||H1|sa.employee033.personal@example.com|GRISMO|PE_1033
+MERGE|PersonEmail|EMP1033|2022/10/20||W1|sa.employee033@example.com|GRISMO|PE_1033
+MERGE|PersonEmail|EMP1034|2023/11/20||H1|sa.employee034.personal@example.com|GRISMO|PE_1034
+MERGE|PersonEmail|EMP1034|2023/11/20||W1|sa.employee034@example.com|GRISMO|PE_1034
+MERGE|PersonEmail|EMP1035|2024/01/05||H1|sa.employee035.personal@example.com|GRISMO|PE_1035
+MERGE|PersonEmail|EMP1035|2024/01/05||W1|sa.employee035@example.com|GRISMO|PE_1035
+MERGE|PersonEmail|EMP1036|2025/02/05||H1|sa.employee036.personal@example.com|GRISMO|PE_1036
+MERGE|PersonEmail|EMP1036|2025/02/05||W1|sa.employee036@example.com|GRISMO|PE_1036
+MERGE|PersonEmail|EMP1037|2020/03/07||H1|sa.employee037.personal@example.com|GRISMO|PE_1037
+MERGE|PersonEmail|EMP1037|2020/03/07||W1|sa.employee037@example.com|GRISMO|PE_1037
+MERGE|PersonEmail|EMP1038|2021/04/08||H1|sa.employee038.personal@example.com|GRISMO|PE_1038
+MERGE|PersonEmail|EMP1038|2021/04/08||W1|sa.employee038@example.com|GRISMO|PE_1038
+MERGE|PersonEmail|EMP1039|2022/05/09||H1|sa.employee039.personal@example.com|GRISMO|PE_1039
+MERGE|PersonEmail|EMP1039|2022/05/09||W1|sa.employee039@example.com|GRISMO|PE_1039
+MERGE|PersonEmail|EMP1040|2023/06/09||H1|sa.employee040.personal@example.com|GRISMO|PE_1040
+MERGE|PersonEmail|EMP1040|2023/06/09||W1|sa.employee040@example.com|GRISMO|PE_1040
+MERGE|PersonEmail|EMP1041|2024/07/09||H1|sa.employee041.personal@example.com|GRISMO|PE_1041
+MERGE|PersonEmail|EMP1041|2024/07/09||W1|sa.employee041@example.com|GRISMO|PE_1041
+MERGE|PersonEmail|EMP1042|2025/08/10||H1|sa.employee042.personal@example.com|GRISMO|PE_1042
+MERGE|PersonEmail|EMP1042|2025/08/10||W1|sa.employee042@example.com|GRISMO|PE_1042
+MERGE|PersonEmail|EMP1043|2020/09/09||H1|sa.employee043.personal@example.com|GRISMO|PE_1043
+MERGE|PersonEmail|EMP1043|2020/09/09||W1|sa.employee043@example.com|GRISMO|PE_1043
+MERGE|PersonEmail|EMP1044|2021/10/11||H1|sa.employee044.personal@example.com|GRISMO|PE_1044
+MERGE|PersonEmail|EMP1044|2021/10/11||W1|sa.employee044@example.com|GRISMO|PE_1044
+MERGE|PersonEmail|EMP1045|2022/11/11||H1|sa.employee045.personal@example.com|GRISMO|PE_1045
+MERGE|PersonEmail|EMP1045|2022/11/11||W1|sa.employee045@example.com|GRISMO|PE_1045
+MERGE|PersonEmail|EMP1046|2023/12/12||H1|sa.employee046.personal@example.com|GRISMO|PE_1046
+MERGE|PersonEmail|EMP1046|2023/12/12||W1|sa.employee046@example.com|GRISMO|PE_1046
+MERGE|PersonEmail|EMP1047|2024/01/27||H1|sa.employee047.personal@example.com|GRISMO|PE_1047
+MERGE|PersonEmail|EMP1047|2024/01/27||W1|sa.employee047@example.com|GRISMO|PE_1047
+MERGE|PersonEmail|EMP1048|2025/02/27||H1|sa.employee048.personal@example.com|GRISMO|PE_1048
+MERGE|PersonEmail|EMP1048|2025/02/27||W1|sa.employee048@example.com|GRISMO|PE_1048
+MERGE|PersonEmail|EMP1049|2020/03/29||H1|sa.employee049.personal@example.com|GRISMO|PE_1049
+MERGE|PersonEmail|EMP1049|2020/03/29||W1|sa.employee049@example.com|GRISMO|PE_1049
+MERGE|PersonEmail|EMP1050|2021/04/30||H1|sa.employee050.personal@example.com|GRISMO|PE_1050
+MERGE|PersonEmail|EMP1050|2021/04/30||W1|sa.employee050@example.com|GRISMO|PE_1050
+MERGE|PersonEmail|EMP1051|2022/05/31||H1|sa.employee051.personal@example.com|GRISMO|PE_1051
+MERGE|PersonEmail|EMP1051|2022/05/31||W1|sa.employee051@example.com|GRISMO|PE_1051
+MERGE|PersonEmail|EMP1052|2023/07/01||H1|sa.employee052.personal@example.com|GRISMO|PE_1052
+MERGE|PersonEmail|EMP1052|2023/07/01||W1|sa.employee052@example.com|GRISMO|PE_1052
+MERGE|PersonEmail|EMP1053|2024/07/31||H1|sa.employee053.personal@example.com|GRISMO|PE_1053
+MERGE|PersonEmail|EMP1053|2024/07/31||W1|sa.employee053@example.com|GRISMO|PE_1053
+MERGE|PersonEmail|EMP1054|2025/09/01||H1|sa.employee054.personal@example.com|GRISMO|PE_1054
+MERGE|PersonEmail|EMP1054|2025/09/01||W1|sa.employee054@example.com|GRISMO|PE_1054
+MERGE|PersonEmail|EMP1055|2020/10/01||H1|sa.employee055.personal@example.com|GRISMO|PE_1055
+MERGE|PersonEmail|EMP1055|2020/10/01||W1|sa.employee055@example.com|GRISMO|PE_1055
+MERGE|PersonEmail|EMP1056|2021/11/02||H1|sa.employee056.personal@example.com|GRISMO|PE_1056
+MERGE|PersonEmail|EMP1056|2021/11/02||W1|sa.employee056@example.com|GRISMO|PE_1056
+MERGE|PersonEmail|EMP1057|2022/12/03||H1|sa.employee057.personal@example.com|GRISMO|PE_1057
+MERGE|PersonEmail|EMP1057|2022/12/03||W1|sa.employee057@example.com|GRISMO|PE_1057
+MERGE|PersonEmail|EMP1058|2023/01/18||H1|sa.employee058.personal@example.com|GRISMO|PE_1058
+MERGE|PersonEmail|EMP1058|2023/01/18||W1|sa.employee058@example.com|GRISMO|PE_1058
+MERGE|PersonEmail|EMP1059|2024/02/18||H1|sa.employee059.personal@example.com|GRISMO|PE_1059
+MERGE|PersonEmail|EMP1059|2024/02/18||W1|sa.employee059@example.com|GRISMO|PE_1059
+MERGE|PersonEmail|EMP1060|2025/03/21||H1|sa.employee060.personal@example.com|GRISMO|PE_1060
+MERGE|PersonEmail|EMP1060|2025/03/21||W1|sa.employee060@example.com|GRISMO|PE_1060
+MERGE|PersonEmail|EMP1061|2020/04/20||H1|sa.employee061.personal@example.com|GRISMO|PE_1061
+MERGE|PersonEmail|EMP1061|2020/04/20||W1|sa.employee061@example.com|GRISMO|PE_1061
+MERGE|PersonEmail|EMP1062|2021/05/22||H1|sa.employee062.personal@example.com|GRISMO|PE_1062
+MERGE|PersonEmail|EMP1062|2021/05/22||W1|sa.employee062@example.com|GRISMO|PE_1062
+MERGE|PersonEmail|EMP1063|2022/06/22||H1|sa.employee063.personal@example.com|GRISMO|PE_1063
+MERGE|PersonEmail|EMP1063|2022/06/22||W1|sa.employee063@example.com|GRISMO|PE_1063
+MERGE|PersonEmail|EMP1064|2023/07/23||H1|sa.employee064.personal@example.com|GRISMO|PE_1064
+MERGE|PersonEmail|EMP1064|2023/07/23||W1|sa.employee064@example.com|GRISMO|PE_1064
+MERGE|PersonEmail|EMP1065|2024/08/22||H1|sa.employee065.personal@example.com|GRISMO|PE_1065
+MERGE|PersonEmail|EMP1065|2024/08/22||W1|sa.employee065@example.com|GRISMO|PE_1065
+MERGE|PersonEmail|EMP1066|2025/09/23||H1|sa.employee066.personal@example.com|GRISMO|PE_1066
+MERGE|PersonEmail|EMP1066|2025/09/23||W1|sa.employee066@example.com|GRISMO|PE_1066
+MERGE|PersonEmail|EMP1067|2020/10/23||H1|sa.employee067.personal@example.com|GRISMO|PE_1067
+MERGE|PersonEmail|EMP1067|2020/10/23||W1|sa.employee067@example.com|GRISMO|PE_1067
+MERGE|PersonEmail|EMP1068|2021/11/24||H1|sa.employee068.personal@example.com|GRISMO|PE_1068
+MERGE|PersonEmail|EMP1068|2021/11/24||W1|sa.employee068@example.com|GRISMO|PE_1068
+MERGE|PersonEmail|EMP1069|2022/01/09||H1|sa.employee069.personal@example.com|GRISMO|PE_1069
+MERGE|PersonEmail|EMP1069|2022/01/09||W1|sa.employee069@example.com|GRISMO|PE_1069
+MERGE|PersonEmail|EMP1070|2023/02/09||H1|sa.employee070.personal@example.com|GRISMO|PE_1070
+MERGE|PersonEmail|EMP1070|2023/02/09||W1|sa.employee070@example.com|GRISMO|PE_1070
+MERGE|PersonEmail|EMP1071|2024/03/11||H1|sa.employee071.personal@example.com|GRISMO|PE_1071
+MERGE|PersonEmail|EMP1071|2024/03/11||W1|sa.employee071@example.com|GRISMO|PE_1071
+MERGE|PersonEmail|EMP1072|2025/04/12||H1|sa.employee072.personal@example.com|GRISMO|PE_1072
+MERGE|PersonEmail|EMP1072|2025/04/12||W1|sa.employee072@example.com|GRISMO|PE_1072
+MERGE|PersonEmail|EMP1073|2020/05/12||H1|sa.employee073.personal@example.com|GRISMO|PE_1073
+MERGE|PersonEmail|EMP1073|2020/05/12||W1|sa.employee073@example.com|GRISMO|PE_1073
+MERGE|PersonEmail|EMP1074|2021/06/13||H1|sa.employee074.personal@example.com|GRISMO|PE_1074
+MERGE|PersonEmail|EMP1074|2021/06/13||W1|sa.employee074@example.com|GRISMO|PE_1074
+MERGE|PersonEmail|EMP1075|2022/07/14||H1|sa.employee075.personal@example.com|GRISMO|PE_1075
+MERGE|PersonEmail|EMP1075|2022/07/14||W1|sa.employee075@example.com|GRISMO|PE_1075
+MERGE|PersonEmail|EMP1076|2023/08/14||H1|sa.employee076.personal@example.com|GRISMO|PE_1076
+MERGE|PersonEmail|EMP1076|2023/08/14||W1|sa.employee076@example.com|GRISMO|PE_1076
+MERGE|PersonEmail|EMP1077|2024/09/13||H1|sa.employee077.personal@example.com|GRISMO|PE_1077
+MERGE|PersonEmail|EMP1077|2024/09/13||W1|sa.employee077@example.com|GRISMO|PE_1077
+MERGE|PersonEmail|EMP1078|2025/10/15||H1|sa.employee078.personal@example.com|GRISMO|PE_1078
+MERGE|PersonEmail|EMP1078|2025/10/15||W1|sa.employee078@example.com|GRISMO|PE_1078
+MERGE|PersonEmail|EMP1079|2020/11/14||H1|sa.employee079.personal@example.com|GRISMO|PE_1079
+MERGE|PersonEmail|EMP1079|2020/11/14||W1|sa.employee079@example.com|GRISMO|PE_1079
+MERGE|PersonEmail|EMP1080|2021/12/16||H1|sa.employee080.personal@example.com|GRISMO|PE_1080
+MERGE|PersonEmail|EMP1080|2021/12/16||W1|sa.employee080@example.com|GRISMO|PE_1080
+MERGE|PersonEmail|EMP1081|2022/01/31||H1|sa.employee081.personal@example.com|GRISMO|PE_1081
+MERGE|PersonEmail|EMP1081|2022/01/31||W1|sa.employee081@example.com|GRISMO|PE_1081
+MERGE|PersonEmail|EMP1082|2023/03/03||H1|sa.employee082.personal@example.com|GRISMO|PE_1082
+MERGE|PersonEmail|EMP1082|2023/03/03||W1|sa.employee082@example.com|GRISMO|PE_1082
+MERGE|PersonEmail|EMP1083|2024/04/02||H1|sa.employee083.personal@example.com|GRISMO|PE_1083
+MERGE|PersonEmail|EMP1083|2024/04/02||W1|sa.employee083@example.com|GRISMO|PE_1083
+MERGE|PersonEmail|EMP1084|2025/05/04||H1|sa.employee084.personal@example.com|GRISMO|PE_1084
+MERGE|PersonEmail|EMP1084|2025/05/04||W1|sa.employee084@example.com|GRISMO|PE_1084
+MERGE|PersonEmail|EMP1085|2020/06/03||H1|sa.employee085.personal@example.com|GRISMO|PE_1085
+MERGE|PersonEmail|EMP1085|2020/06/03||W1|sa.employee085@example.com|GRISMO|PE_1085
+MERGE|PersonEmail|EMP1086|2021/07/05||H1|sa.employee086.personal@example.com|GRISMO|PE_1086
+MERGE|PersonEmail|EMP1086|2021/07/05||W1|sa.employee086@example.com|GRISMO|PE_1086
+MERGE|PersonEmail|EMP1087|2022/08/05||H1|sa.employee087.personal@example.com|GRISMO|PE_1087
+MERGE|PersonEmail|EMP1087|2022/08/05||W1|sa.employee087@example.com|GRISMO|PE_1087
+MERGE|PersonEmail|EMP1088|2023/09/05||H1|sa.employee088.personal@example.com|GRISMO|PE_1088
+MERGE|PersonEmail|EMP1088|2023/09/05||W1|sa.employee088@example.com|GRISMO|PE_1088
+MERGE|PersonEmail|EMP1089|2024/10/05||H1|sa.employee089.personal@example.com|GRISMO|PE_1089
+MERGE|PersonEmail|EMP1089|2024/10/05||W1|sa.employee089@example.com|GRISMO|PE_1089
+MERGE|PersonEmail|EMP1090|2025/11/06||H1|sa.employee090.personal@example.com|GRISMO|PE_1090
+MERGE|PersonEmail|EMP1090|2025/11/06||W1|sa.employee090@example.com|GRISMO|PE_1090
+MERGE|PersonEmail|EMP1091|2020/12/06||H1|sa.employee091.personal@example.com|GRISMO|PE_1091
+MERGE|PersonEmail|EMP1091|2020/12/06||W1|sa.employee091@example.com|GRISMO|PE_1091
+MERGE|PersonEmail|EMP1092|2021/01/22||H1|sa.employee092.personal@example.com|GRISMO|PE_1092
+MERGE|PersonEmail|EMP1092|2021/01/22||W1|sa.employee092@example.com|GRISMO|PE_1092
+MERGE|PersonEmail|EMP1093|2022/02/22||H1|sa.employee093.personal@example.com|GRISMO|PE_1093
+MERGE|PersonEmail|EMP1093|2022/02/22||W1|sa.employee093@example.com|GRISMO|PE_1093
+MERGE|PersonEmail|EMP1094|2023/03/25||H1|sa.employee094.personal@example.com|GRISMO|PE_1094
+MERGE|PersonEmail|EMP1094|2023/03/25||W1|sa.employee094@example.com|GRISMO|PE_1094
+MERGE|PersonEmail|EMP1095|2024/04/24||H1|sa.employee095.personal@example.com|GRISMO|PE_1095
+MERGE|PersonEmail|EMP1095|2024/04/24||W1|sa.employee095@example.com|GRISMO|PE_1095
+MERGE|PersonEmail|EMP1096|2025/05/26||H1|sa.employee096.personal@example.com|GRISMO|PE_1096
+MERGE|PersonEmail|EMP1096|2025/05/26||W1|sa.employee096@example.com|GRISMO|PE_1096
+MERGE|PersonEmail|EMP1097|2020/06/25||H1|sa.employee097.personal@example.com|GRISMO|PE_1097
+MERGE|PersonEmail|EMP1097|2020/06/25||W1|sa.employee097@example.com|GRISMO|PE_1097
+MERGE|PersonEmail|EMP1098|2021/07/27||H1|sa.employee098.personal@example.com|GRISMO|PE_1098
+MERGE|PersonEmail|EMP1098|2021/07/27||W1|sa.employee098@example.com|GRISMO|PE_1098
+MERGE|PersonEmail|EMP1099|2022/08/27||H1|sa.employee099.personal@example.com|GRISMO|PE_1099
+MERGE|PersonEmail|EMP1099|2022/08/27||W1|sa.employee099@example.com|GRISMO|PE_1099
+MERGE|PersonEmail|EMP1100|2023/09/27||H1|sa.employee100.personal@example.com|GRISMO|PE_1100
+MERGE|PersonEmail|EMP1100|2023/09/27||W1|sa.employee100@example.com|GRISMO|PE_1100
+METADATA|PersonLegislativeData|EffectiveStartDate|PersonId(SourceSystemId)|LegislationCode|Sex|MaritalStatus|SourceSystemId|SourceSystemOwner
+MERGE|PersonLegislativeData|2020/01/01|wor_1001|SA|Male|Single|pld_1001|GRISMO
+MERGE|PersonLegislativeData|2021/02/01|wor_1002|SA|Female|Widowed|pld_1002|GRISMO
+MERGE|PersonLegislativeData|2022/03/04|wor_1003|SA|Male|Divorced|pld_1003|GRISMO
+MERGE|PersonLegislativeData|2023/04/04|wor_1004|SA|Female|Married|pld_1004|GRISMO
+MERGE|PersonLegislativeData|2024/05/04|wor_1005|SA|Male|Single|pld_1005|GRISMO
+MERGE|PersonLegislativeData|2025/06/05|wor_1006|SA|Female|Widowed|pld_1006|GRISMO
+MERGE|PersonLegislativeData|2020/07/05|wor_1007|SA|Male|Divorced|pld_1007|GRISMO
+MERGE|PersonLegislativeData|2021/08/06|wor_1008|SA|Female|Married|pld_1008|GRISMO
+MERGE|PersonLegislativeData|2022/09/06|wor_1009|SA|Male|Single|pld_1009|GRISMO
+MERGE|PersonLegislativeData|2023/10/07|wor_1010|SA|Female|Widowed|pld_1010|GRISMO
+MERGE|PersonLegislativeData|2024/11/06|wor_1011|SA|Male|Divorced|pld_1011|GRISMO
+MERGE|PersonLegislativeData|2025/12/08|wor_1012|SA|Female|Married|pld_1012|GRISMO
+MERGE|PersonLegislativeData|2020/01/23|wor_1013|SA|Male|Single|pld_1013|GRISMO
+MERGE|PersonLegislativeData|2021/02/23|wor_1014|SA|Female|Widowed|pld_1014|GRISMO
+MERGE|PersonLegislativeData|2022/03/26|wor_1015|SA|Male|Divorced|pld_1015|GRISMO
+MERGE|PersonLegislativeData|2023/04/26|wor_1016|SA|Female|Married|pld_1016|GRISMO
+MERGE|PersonLegislativeData|2024/05/26|wor_1017|SA|Male|Single|pld_1017|GRISMO
+MERGE|PersonLegislativeData|2025/06/27|wor_1018|SA|Female|Widowed|pld_1018|GRISMO
+MERGE|PersonLegislativeData|2020/07/27|wor_1019|SA|Male|Divorced|pld_1019|GRISMO
+MERGE|PersonLegislativeData|2021/08/28|wor_1020|SA|Female|Married|pld_1020|GRISMO
+MERGE|PersonLegislativeData|2022/09/28|wor_1021|SA|Male|Single|pld_1021|GRISMO
+MERGE|PersonLegislativeData|2023/10/29|wor_1022|SA|Female|Widowed|pld_1022|GRISMO
+MERGE|PersonLegislativeData|2024/11/28|wor_1023|SA|Male|Divorced|pld_1023|GRISMO
+MERGE|PersonLegislativeData|2025/01/14|wor_1024|SA|Female|Married|pld_1024|GRISMO
+MERGE|PersonLegislativeData|2020/02/14|wor_1025|SA|Male|Single|pld_1025|GRISMO
+MERGE|PersonLegislativeData|2021/03/17|wor_1026|SA|Female|Widowed|pld_1026|GRISMO
+MERGE|PersonLegislativeData|2022/04/17|wor_1027|SA|Male|Divorced|pld_1027|GRISMO
+MERGE|PersonLegislativeData|2023/05/18|wor_1028|SA|Female|Married|pld_1028|GRISMO
+MERGE|PersonLegislativeData|2024/06/17|wor_1029|SA|Male|Single|pld_1029|GRISMO
+MERGE|PersonLegislativeData|2025/07/19|wor_1030|SA|Female|Widowed|pld_1030|GRISMO
+MERGE|PersonLegislativeData|2020/08/18|wor_1031|SA|Male|Divorced|pld_1031|GRISMO
+MERGE|PersonLegislativeData|2021/09/19|wor_1032|SA|Female|Married|pld_1032|GRISMO
+MERGE|PersonLegislativeData|2022/10/20|wor_1033|SA|Male|Single|pld_1033|GRISMO
+MERGE|PersonLegislativeData|2023/11/20|wor_1034|SA|Female|Widowed|pld_1034|GRISMO
+MERGE|PersonLegislativeData|2024/01/05|wor_1035|SA|Male|Divorced|pld_1035|GRISMO
+MERGE|PersonLegislativeData|2025/02/05|wor_1036|SA|Female|Married|pld_1036|GRISMO
+MERGE|PersonLegislativeData|2020/03/07|wor_1037|SA|Male|Single|pld_1037|GRISMO
+MERGE|PersonLegislativeData|2021/04/08|wor_1038|SA|Female|Widowed|pld_1038|GRISMO
+MERGE|PersonLegislativeData|2022/05/09|wor_1039|SA|Male|Divorced|pld_1039|GRISMO
+MERGE|PersonLegislativeData|2023/06/09|wor_1040|SA|Female|Married|pld_1040|GRISMO
+MERGE|PersonLegislativeData|2024/07/09|wor_1041|SA|Male|Single|pld_1041|GRISMO
+MERGE|PersonLegislativeData|2025/08/10|wor_1042|SA|Female|Widowed|pld_1042|GRISMO
+MERGE|PersonLegislativeData|2020/09/09|wor_1043|SA|Male|Divorced|pld_1043|GRISMO
+MERGE|PersonLegislativeData|2021/10/11|wor_1044|SA|Female|Married|pld_1044|GRISMO
+MERGE|PersonLegislativeData|2022/11/11|wor_1045|SA|Male|Single|pld_1045|GRISMO
+MERGE|PersonLegislativeData|2023/12/12|wor_1046|SA|Female|Widowed|pld_1046|GRISMO
+MERGE|PersonLegislativeData|2024/01/27|wor_1047|SA|Male|Divorced|pld_1047|GRISMO
+MERGE|PersonLegislativeData|2025/02/27|wor_1048|SA|Female|Married|pld_1048|GRISMO
+MERGE|PersonLegislativeData|2020/03/29|wor_1049|SA|Male|Single|pld_1049|GRISMO
+MERGE|PersonLegislativeData|2021/04/30|wor_1050|SA|Female|Widowed|pld_1050|GRISMO
+MERGE|PersonLegislativeData|2022/05/31|wor_1051|SA|Male|Divorced|pld_1051|GRISMO
+MERGE|PersonLegislativeData|2023/07/01|wor_1052|SA|Female|Married|pld_1052|GRISMO
+MERGE|PersonLegislativeData|2024/07/31|wor_1053|SA|Male|Single|pld_1053|GRISMO
+MERGE|PersonLegislativeData|2025/09/01|wor_1054|SA|Female|Widowed|pld_1054|GRISMO
+MERGE|PersonLegislativeData|2020/10/01|wor_1055|SA|Male|Divorced|pld_1055|GRISMO
+MERGE|PersonLegislativeData|2021/11/02|wor_1056|SA|Female|Married|pld_1056|GRISMO
+MERGE|PersonLegislativeData|2022/12/03|wor_1057|SA|Male|Single|pld_1057|GRISMO
+MERGE|PersonLegislativeData|2023/01/18|wor_1058|SA|Female|Widowed|pld_1058|GRISMO
+MERGE|PersonLegislativeData|2024/02/18|wor_1059|SA|Male|Divorced|pld_1059|GRISMO
+MERGE|PersonLegislativeData|2025/03/21|wor_1060|SA|Female|Married|pld_1060|GRISMO
+MERGE|PersonLegislativeData|2020/04/20|wor_1061|SA|Male|Single|pld_1061|GRISMO
+MERGE|PersonLegislativeData|2021/05/22|wor_1062|SA|Female|Widowed|pld_1062|GRISMO
+MERGE|PersonLegislativeData|2022/06/22|wor_1063|SA|Male|Divorced|pld_1063|GRISMO
+MERGE|PersonLegislativeData|2023/07/23|wor_1064|SA|Female|Married|pld_1064|GRISMO
+MERGE|PersonLegislativeData|2024/08/22|wor_1065|SA|Male|Single|pld_1065|GRISMO
+MERGE|PersonLegislativeData|2025/09/23|wor_1066|SA|Female|Widowed|pld_1066|GRISMO
+MERGE|PersonLegislativeData|2020/10/23|wor_1067|SA|Male|Divorced|pld_1067|GRISMO
+MERGE|PersonLegislativeData|2021/11/24|wor_1068|SA|Female|Married|pld_1068|GRISMO
+MERGE|PersonLegislativeData|2022/01/09|wor_1069|SA|Male|Single|pld_1069|GRISMO
+MERGE|PersonLegislativeData|2023/02/09|wor_1070|SA|Female|Widowed|pld_1070|GRISMO
+MERGE|PersonLegislativeData|2024/03/11|wor_1071|SA|Male|Divorced|pld_1071|GRISMO
+MERGE|PersonLegislativeData|2025/04/12|wor_1072|SA|Female|Married|pld_1072|GRISMO
+MERGE|PersonLegislativeData|2020/05/12|wor_1073|SA|Male|Single|pld_1073|GRISMO
+MERGE|PersonLegislativeData|2021/06/13|wor_1074|SA|Female|Widowed|pld_1074|GRISMO
+MERGE|PersonLegislativeData|2022/07/14|wor_1075|SA|Male|Divorced|pld_1075|GRISMO
+MERGE|PersonLegislativeData|2023/08/14|wor_1076|SA|Female|Married|pld_1076|GRISMO
+MERGE|PersonLegislativeData|2024/09/13|wor_1077|SA|Male|Single|pld_1077|GRISMO
+MERGE|PersonLegislativeData|2025/10/15|wor_1078|SA|Female|Widowed|pld_1078|GRISMO
+MERGE|PersonLegislativeData|2020/11/14|wor_1079|SA|Male|Divorced|pld_1079|GRISMO
+MERGE|PersonLegislativeData|2021/12/16|wor_1080|SA|Female|Married|pld_1080|GRISMO
+MERGE|PersonLegislativeData|2022/01/31|wor_1081|SA|Male|Single|pld_1081|GRISMO
+MERGE|PersonLegislativeData|2023/03/03|wor_1082|SA|Female|Widowed|pld_1082|GRISMO
+MERGE|PersonLegislativeData|2024/04/02|wor_1083|SA|Male|Divorced|pld_1083|GRISMO
+MERGE|PersonLegislativeData|2025/05/04|wor_1084|SA|Female|Married|pld_1084|GRISMO
+MERGE|PersonLegislativeData|2020/06/03|wor_1085|SA|Male|Single|pld_1085|GRISMO
+MERGE|PersonLegislativeData|2021/07/05|wor_1086|SA|Female|Widowed|pld_1086|GRISMO
+MERGE|PersonLegislativeData|2022/08/05|wor_1087|SA|Male|Divorced|pld_1087|GRISMO
+MERGE|PersonLegislativeData|2023/09/05|wor_1088|SA|Female|Married|pld_1088|GRISMO
+MERGE|PersonLegislativeData|2024/10/05|wor_1089|SA|Male|Single|pld_1089|GRISMO
+MERGE|PersonLegislativeData|2025/11/06|wor_1090|SA|Female|Widowed|pld_1090|GRISMO
+MERGE|PersonLegislativeData|2020/12/06|wor_1091|SA|Male|Divorced|pld_1091|GRISMO
+MERGE|PersonLegislativeData|2021/01/22|wor_1092|SA|Female|Married|pld_1092|GRISMO
+MERGE|PersonLegislativeData|2022/02/22|wor_1093|SA|Male|Single|pld_1093|GRISMO
+MERGE|PersonLegislativeData|2023/03/25|wor_1094|SA|Female|Widowed|pld_1094|GRISMO
+MERGE|PersonLegislativeData|2024/04/24|wor_1095|SA|Male|Divorced|pld_1095|GRISMO
+MERGE|PersonLegislativeData|2025/05/26|wor_1096|SA|Female|Married|pld_1096|GRISMO
+MERGE|PersonLegislativeData|2020/06/25|wor_1097|SA|Male|Single|pld_1097|GRISMO
+MERGE|PersonLegislativeData|2021/07/27|wor_1098|SA|Female|Widowed|pld_1098|GRISMO
+MERGE|PersonLegislativeData|2022/08/27|wor_1099|SA|Male|Divorced|pld_1099|GRISMO
+MERGE|PersonLegislativeData|2023/09/27|wor_1100|SA|Female|Married|pld_1100|GRISMO
+METADATA|PersonName|EffectiveStartDate|PersonId(SourceSystemId)|NameType|LegislationCode|Title|FirstName|MiddleNames|LastName|SourceSystemId|SourceSystemOwner
+MERGE|PersonName|2020/01/01|wor_1001|GLOBAL|SA||Faisal||Alharbi|pn_1001|GRISMO
+MERGE|PersonName|2021/02/01|wor_1002|GLOBAL|SA||Noura|Nasser|Alshehri|pn_1002|GRISMO
+MERGE|PersonName|2022/03/04|wor_1003|GLOBAL|SA||Omar|Ibrahim|Alrashid|pn_1003|GRISMO
+MERGE|PersonName|2023/04/04|wor_1004|GLOBAL|SA||Layan|Rashid|Alqahtani|pn_1004|GRISMO
+MERGE|PersonName|2024/05/04|wor_1005|GLOBAL|SA||Khalid||Alshammari|pn_1005|GRISMO
+MERGE|PersonName|2025/06/05|wor_1006|GLOBAL|SA||Maha|Abdulaziz|Alfarsi|pn_1006|GRISMO
+MERGE|PersonName|2020/07/05|wor_1007|GLOBAL|SA||Abdullah|Nasser|Alotaibi|pn_1007|GRISMO
+MERGE|PersonName|2021/08/06|wor_1008|GLOBAL|SA||Sara|Ibrahim|Alenezi|pn_1008|GRISMO
+MERGE|PersonName|2022/09/06|wor_1009|GLOBAL|SA||Yousef||Alansari|pn_1009|GRISMO
+MERGE|PersonName|2023/10/07|wor_1010|GLOBAL|SA||Reem|Majid|Alzahrani|pn_1010|GRISMO
+MERGE|PersonName|2024/11/06|wor_1011|GLOBAL|SA||Saud|Abdulaziz|Alsubaie|pn_1011|GRISMO
+MERGE|PersonName|2025/12/08|wor_1012|GLOBAL|SA||Hala|Nasser|Alsharif|pn_1012|GRISMO
+MERGE|PersonName|2020/01/23|wor_1013|GLOBAL|SA||Turki||Alghamdi|pn_1013|GRISMO
+MERGE|PersonName|2021/02/23|wor_1014|GLOBAL|SA||Amal|Rashid|Almalki|pn_1014|GRISMO
+MERGE|PersonName|2022/03/26|wor_1015|GLOBAL|SA||Mohammed|Majid|Alghazi|pn_1015|GRISMO
+MERGE|PersonName|2023/04/26|wor_1016|GLOBAL|SA||Dana|Abdulaziz|Almutairi|pn_1016|GRISMO
+MERGE|PersonName|2024/05/26|wor_1017|GLOBAL|SA||Rayan||Alamri|pn_1017|GRISMO
+MERGE|PersonName|2025/06/27|wor_1018|GLOBAL|SA||Joud|Ibrahim|Alsaud|pn_1018|GRISMO
+MERGE|PersonName|2020/07/27|wor_1019|GLOBAL|SA||Sultan|Rashid|Aldossari|pn_1019|GRISMO
+MERGE|PersonName|2021/08/28|wor_1020|GLOBAL|SA||Abeer|Majid|Alhassan|pn_1020|GRISMO
+MERGE|PersonName|2022/09/28|wor_1021|GLOBAL|SA||Ziyad||Alharbi|pn_1021|GRISMO
+MERGE|PersonName|2023/10/29|wor_1022|GLOBAL|SA||Lina|Nasser|Alshehri|pn_1022|GRISMO
+MERGE|PersonName|2024/11/28|wor_1023|GLOBAL|SA||Bandar|Ibrahim|Alrashid|pn_1023|GRISMO
+MERGE|PersonName|2025/01/14|wor_1024|GLOBAL|SA||Mariam|Rashid|Alqahtani|pn_1024|GRISMO
+MERGE|PersonName|2020/02/14|wor_1025|GLOBAL|SA||Talal||Alshammari|pn_1025|GRISMO
+MERGE|PersonName|2021/03/17|wor_1026|GLOBAL|SA||Rana|Abdulaziz|Alfarsi|pn_1026|GRISMO
+MERGE|PersonName|2022/04/17|wor_1027|GLOBAL|SA||Majed|Nasser|Alotaibi|pn_1027|GRISMO
+MERGE|PersonName|2023/05/18|wor_1028|GLOBAL|SA||Ghada|Ibrahim|Alenezi|pn_1028|GRISMO
+MERGE|PersonName|2024/06/17|wor_1029|GLOBAL|SA||Nawaf||Alansari|pn_1029|GRISMO
+MERGE|PersonName|2025/07/19|wor_1030|GLOBAL|SA||Yara|Majid|Alzahrani|pn_1030|GRISMO
+MERGE|PersonName|2020/08/18|wor_1031|GLOBAL|SA||Hassan|Abdulaziz|Alsubaie|pn_1031|GRISMO
+MERGE|PersonName|2021/09/19|wor_1032|GLOBAL|SA||Dalia|Nasser|Alsharif|pn_1032|GRISMO
+MERGE|PersonName|2022/10/20|wor_1033|GLOBAL|SA||Salman||Alghamdi|pn_1033|GRISMO
+MERGE|PersonName|2023/11/20|wor_1034|GLOBAL|SA||Amani|Rashid|Almalki|pn_1034|GRISMO
+MERGE|PersonName|2024/01/05|wor_1035|GLOBAL|SA||Ibrahim|Majid|Alghazi|pn_1035|GRISMO
+MERGE|PersonName|2025/02/05|wor_1036|GLOBAL|SA||Noor|Abdulaziz|Almutairi|pn_1036|GRISMO
+MERGE|PersonName|2020/03/07|wor_1037|GLOBAL|SA||Bader||Alamri|pn_1037|GRISMO
+MERGE|PersonName|2021/04/08|wor_1038|GLOBAL|SA||Shahad|Ibrahim|Alsaud|pn_1038|GRISMO
+MERGE|PersonName|2022/05/09|wor_1039|GLOBAL|SA||Adel|Rashid|Aldossari|pn_1039|GRISMO
+MERGE|PersonName|2023/06/09|wor_1040|GLOBAL|SA||Raghad|Majid|Alhassan|pn_1040|GRISMO
+MERGE|PersonName|2024/07/09|wor_1041|GLOBAL|SA||Faisal||Alharbi|pn_1041|GRISMO
+MERGE|PersonName|2025/08/10|wor_1042|GLOBAL|SA||Noura|Nasser|Alshehri|pn_1042|GRISMO
+MERGE|PersonName|2020/09/09|wor_1043|GLOBAL|SA||Omar|Ibrahim|Alrashid|pn_1043|GRISMO
+MERGE|PersonName|2021/10/11|wor_1044|GLOBAL|SA||Layan|Rashid|Alqahtani|pn_1044|GRISMO
+MERGE|PersonName|2022/11/11|wor_1045|GLOBAL|SA||Khalid||Alshammari|pn_1045|GRISMO
+MERGE|PersonName|2023/12/12|wor_1046|GLOBAL|SA||Maha|Abdulaziz|Alfarsi|pn_1046|GRISMO
+MERGE|PersonName|2024/01/27|wor_1047|GLOBAL|SA||Abdullah|Nasser|Alotaibi|pn_1047|GRISMO
+MERGE|PersonName|2025/02/27|wor_1048|GLOBAL|SA||Sara|Ibrahim|Alenezi|pn_1048|GRISMO
+MERGE|PersonName|2020/03/29|wor_1049|GLOBAL|SA||Yousef||Alansari|pn_1049|GRISMO
+MERGE|PersonName|2021/04/30|wor_1050|GLOBAL|SA||Reem|Majid|Alzahrani|pn_1050|GRISMO
+MERGE|PersonName|2022/05/31|wor_1051|GLOBAL|SA||Saud|Abdulaziz|Alsubaie|pn_1051|GRISMO
+MERGE|PersonName|2023/07/01|wor_1052|GLOBAL|SA||Hala|Nasser|Alsharif|pn_1052|GRISMO
+MERGE|PersonName|2024/07/31|wor_1053|GLOBAL|SA||Turki||Alghamdi|pn_1053|GRISMO
+MERGE|PersonName|2025/09/01|wor_1054|GLOBAL|SA||Amal|Rashid|Almalki|pn_1054|GRISMO
+MERGE|PersonName|2020/10/01|wor_1055|GLOBAL|SA||Mohammed|Majid|Alghazi|pn_1055|GRISMO
+MERGE|PersonName|2021/11/02|wor_1056|GLOBAL|SA||Dana|Abdulaziz|Almutairi|pn_1056|GRISMO
+MERGE|PersonName|2022/12/03|wor_1057|GLOBAL|SA||Rayan||Alamri|pn_1057|GRISMO
+MERGE|PersonName|2023/01/18|wor_1058|GLOBAL|SA||Joud|Ibrahim|Alsaud|pn_1058|GRISMO
+MERGE|PersonName|2024/02/18|wor_1059|GLOBAL|SA||Sultan|Rashid|Aldossari|pn_1059|GRISMO
+MERGE|PersonName|2025/03/21|wor_1060|GLOBAL|SA||Abeer|Majid|Alhassan|pn_1060|GRISMO
+MERGE|PersonName|2020/04/20|wor_1061|GLOBAL|SA||Ziyad||Alharbi|pn_1061|GRISMO
+MERGE|PersonName|2021/05/22|wor_1062|GLOBAL|SA||Lina|Nasser|Alshehri|pn_1062|GRISMO
+MERGE|PersonName|2022/06/22|wor_1063|GLOBAL|SA||Bandar|Ibrahim|Alrashid|pn_1063|GRISMO
+MERGE|PersonName|2023/07/23|wor_1064|GLOBAL|SA||Mariam|Rashid|Alqahtani|pn_1064|GRISMO
+MERGE|PersonName|2024/08/22|wor_1065|GLOBAL|SA||Talal||Alshammari|pn_1065|GRISMO
+MERGE|PersonName|2025/09/23|wor_1066|GLOBAL|SA||Rana|Abdulaziz|Alfarsi|pn_1066|GRISMO
+MERGE|PersonName|2020/10/23|wor_1067|GLOBAL|SA||Majed|Nasser|Alotaibi|pn_1067|GRISMO
+MERGE|PersonName|2021/11/24|wor_1068|GLOBAL|SA||Ghada|Ibrahim|Alenezi|pn_1068|GRISMO
+MERGE|PersonName|2022/01/09|wor_1069|GLOBAL|SA||Nawaf||Alansari|pn_1069|GRISMO
+MERGE|PersonName|2023/02/09|wor_1070|GLOBAL|SA||Yara|Majid|Alzahrani|pn_1070|GRISMO
+MERGE|PersonName|2024/03/11|wor_1071|GLOBAL|SA||Hassan|Abdulaziz|Alsubaie|pn_1071|GRISMO
+MERGE|PersonName|2025/04/12|wor_1072|GLOBAL|SA||Dalia|Nasser|Alsharif|pn_1072|GRISMO
+MERGE|PersonName|2020/05/12|wor_1073|GLOBAL|SA||Salman||Alghamdi|pn_1073|GRISMO
+MERGE|PersonName|2021/06/13|wor_1074|GLOBAL|SA||Amani|Rashid|Almalki|pn_1074|GRISMO
+MERGE|PersonName|2022/07/14|wor_1075|GLOBAL|SA||Ibrahim|Majid|Alghazi|pn_1075|GRISMO
+MERGE|PersonName|2023/08/14|wor_1076|GLOBAL|SA||Noor|Abdulaziz|Almutairi|pn_1076|GRISMO
+MERGE|PersonName|2024/09/13|wor_1077|GLOBAL|SA||Bader||Alamri|pn_1077|GRISMO
+MERGE|PersonName|2025/10/15|wor_1078|GLOBAL|SA||Shahad|Ibrahim|Alsaud|pn_1078|GRISMO
+MERGE|PersonName|2020/11/14|wor_1079|GLOBAL|SA||Adel|Rashid|Aldossari|pn_1079|GRISMO
+MERGE|PersonName|2021/12/16|wor_1080|GLOBAL|SA||Raghad|Majid|Alhassan|pn_1080|GRISMO
+MERGE|PersonName|2022/01/31|wor_1081|GLOBAL|SA||Faisal||Alharbi|pn_1081|GRISMO
+MERGE|PersonName|2023/03/03|wor_1082|GLOBAL|SA||Noura|Nasser|Alshehri|pn_1082|GRISMO
+MERGE|PersonName|2024/04/02|wor_1083|GLOBAL|SA||Omar|Ibrahim|Alrashid|pn_1083|GRISMO
+MERGE|PersonName|2025/05/04|wor_1084|GLOBAL|SA||Layan|Rashid|Alqahtani|pn_1084|GRISMO
+MERGE|PersonName|2020/06/03|wor_1085|GLOBAL|SA||Khalid||Alshammari|pn_1085|GRISMO
+MERGE|PersonName|2021/07/05|wor_1086|GLOBAL|SA||Maha|Abdulaziz|Alfarsi|pn_1086|GRISMO
+MERGE|PersonName|2022/08/05|wor_1087|GLOBAL|SA||Abdullah|Nasser|Alotaibi|pn_1087|GRISMO
+MERGE|PersonName|2023/09/05|wor_1088|GLOBAL|SA||Sara|Ibrahim|Alenezi|pn_1088|GRISMO
+MERGE|PersonName|2024/10/05|wor_1089|GLOBAL|SA||Yousef||Alansari|pn_1089|GRISMO
+MERGE|PersonName|2025/11/06|wor_1090|GLOBAL|SA||Reem|Majid|Alzahrani|pn_1090|GRISMO
+MERGE|PersonName|2020/12/06|wor_1091|GLOBAL|SA||Saud|Abdulaziz|Alsubaie|pn_1091|GRISMO
+MERGE|PersonName|2021/01/22|wor_1092|GLOBAL|SA||Hala|Nasser|Alsharif|pn_1092|GRISMO
+MERGE|PersonName|2022/02/22|wor_1093|GLOBAL|SA||Turki||Alghamdi|pn_1093|GRISMO
+MERGE|PersonName|2023/03/25|wor_1094|GLOBAL|SA||Amal|Rashid|Almalki|pn_1094|GRISMO
+MERGE|PersonName|2024/04/24|wor_1095|GLOBAL|SA||Mohammed|Majid|Alghazi|pn_1095|GRISMO
+MERGE|PersonName|2025/05/26|wor_1096|GLOBAL|SA||Dana|Abdulaziz|Almutairi|pn_1096|GRISMO
+MERGE|PersonName|2020/06/25|wor_1097|GLOBAL|SA||Rayan||Alamri|pn_1097|GRISMO
+MERGE|PersonName|2021/07/27|wor_1098|GLOBAL|SA||Joud|Ibrahim|Alsaud|pn_1098|GRISMO
+MERGE|PersonName|2022/08/27|wor_1099|GLOBAL|SA||Sultan|Rashid|Aldossari|pn_1099|GRISMO
+MERGE|PersonName|2023/09/27|wor_1100|GLOBAL|SA||Abeer|Majid|Alhassan|pn_1100|GRISMO
+METADATA|PersonNationalIdentifier|PersonNumber|LegislationCode|NationalIdentifierType|NationalIdentifierNumber|PersonId(SourceSystemId)|PrimaryFlag|SourceSystemId|SourceSystemOwner
+MERGE|PersonNationalIdentifier|EMP1001|SA|National ID|9000000001|wor_1001|Y|pni_1001|GRISMO
+MERGE|PersonNationalIdentifier|EMP1002|SA|National ID|9000000002|wor_1002|Y|pni_1002|GRISMO
+MERGE|PersonNationalIdentifier|EMP1003|SA|National ID|9000000003|wor_1003|Y|pni_1003|GRISMO
+MERGE|PersonNationalIdentifier|EMP1004|SA|National ID|9000000004|wor_1004|Y|pni_1004|GRISMO
+MERGE|PersonNationalIdentifier|EMP1005|SA|National ID|9000000005|wor_1005|Y|pni_1005|GRISMO
+MERGE|PersonNationalIdentifier|EMP1006|SA|National ID|9000000006|wor_1006|Y|pni_1006|GRISMO
+MERGE|PersonNationalIdentifier|EMP1007|SA|National ID|9000000007|wor_1007|Y|pni_1007|GRISMO
+MERGE|PersonNationalIdentifier|EMP1008|SA|National ID|9000000008|wor_1008|Y|pni_1008|GRISMO
+MERGE|PersonNationalIdentifier|EMP1009|SA|National ID|9000000009|wor_1009|Y|pni_1009|GRISMO
+MERGE|PersonNationalIdentifier|EMP1010|SA|National ID|9000000010|wor_1010|Y|pni_1010|GRISMO
+MERGE|PersonNationalIdentifier|EMP1011|SA|National ID|9000000011|wor_1011|Y|pni_1011|GRISMO
+MERGE|PersonNationalIdentifier|EMP1012|SA|National ID|9000000012|wor_1012|Y|pni_1012|GRISMO
+MERGE|PersonNationalIdentifier|EMP1013|SA|National ID|9000000013|wor_1013|Y|pni_1013|GRISMO
+MERGE|PersonNationalIdentifier|EMP1014|SA|National ID|9000000014|wor_1014|Y|pni_1014|GRISMO
+MERGE|PersonNationalIdentifier|EMP1015|SA|National ID|9000000015|wor_1015|Y|pni_1015|GRISMO
+MERGE|PersonNationalIdentifier|EMP1016|SA|National ID|9000000016|wor_1016|Y|pni_1016|GRISMO
+MERGE|PersonNationalIdentifier|EMP1017|SA|National ID|9000000017|wor_1017|Y|pni_1017|GRISMO
+MERGE|PersonNationalIdentifier|EMP1018|SA|National ID|9000000018|wor_1018|Y|pni_1018|GRISMO
+MERGE|PersonNationalIdentifier|EMP1019|SA|National ID|9000000019|wor_1019|Y|pni_1019|GRISMO
+MERGE|PersonNationalIdentifier|EMP1020|SA|National ID|9000000020|wor_1020|Y|pni_1020|GRISMO
+MERGE|PersonNationalIdentifier|EMP1021|SA|National ID|9000000021|wor_1021|Y|pni_1021|GRISMO
+MERGE|PersonNationalIdentifier|EMP1022|SA|National ID|9000000022|wor_1022|Y|pni_1022|GRISMO
+MERGE|PersonNationalIdentifier|EMP1023|SA|National ID|9000000023|wor_1023|Y|pni_1023|GRISMO
+MERGE|PersonNationalIdentifier|EMP1024|SA|National ID|9000000024|wor_1024|Y|pni_1024|GRISMO
+MERGE|PersonNationalIdentifier|EMP1025|SA|National ID|9000000025|wor_1025|Y|pni_1025|GRISMO
+MERGE|PersonNationalIdentifier|EMP1026|SA|National ID|9000000026|wor_1026|Y|pni_1026|GRISMO
+MERGE|PersonNationalIdentifier|EMP1027|SA|National ID|9000000027|wor_1027|Y|pni_1027|GRISMO
+MERGE|PersonNationalIdentifier|EMP1028|SA|National ID|9000000028|wor_1028|Y|pni_1028|GRISMO
+MERGE|PersonNationalIdentifier|EMP1029|SA|National ID|9000000029|wor_1029|Y|pni_1029|GRISMO
+MERGE|PersonNationalIdentifier|EMP1030|SA|National ID|9000000030|wor_1030|Y|pni_1030|GRISMO
+MERGE|PersonNationalIdentifier|EMP1031|SA|National ID|9000000031|wor_1031|Y|pni_1031|GRISMO
+MERGE|PersonNationalIdentifier|EMP1032|SA|National ID|9000000032|wor_1032|Y|pni_1032|GRISMO
+MERGE|PersonNationalIdentifier|EMP1033|SA|National ID|9000000033|wor_1033|Y|pni_1033|GRISMO
+MERGE|PersonNationalIdentifier|EMP1034|SA|National ID|9000000034|wor_1034|Y|pni_1034|GRISMO
+MERGE|PersonNationalIdentifier|EMP1035|SA|National ID|9000000035|wor_1035|Y|pni_1035|GRISMO
+MERGE|PersonNationalIdentifier|EMP1036|SA|National ID|9000000036|wor_1036|Y|pni_1036|GRISMO
+MERGE|PersonNationalIdentifier|EMP1037|SA|National ID|9000000037|wor_1037|Y|pni_1037|GRISMO
+MERGE|PersonNationalIdentifier|EMP1038|SA|National ID|9000000038|wor_1038|Y|pni_1038|GRISMO
+MERGE|PersonNationalIdentifier|EMP1039|SA|National ID|9000000039|wor_1039|Y|pni_1039|GRISMO
+MERGE|PersonNationalIdentifier|EMP1040|SA|National ID|9000000040|wor_1040|Y|pni_1040|GRISMO
+MERGE|PersonNationalIdentifier|EMP1041|SA|National ID|9000000041|wor_1041|Y|pni_1041|GRISMO
+MERGE|PersonNationalIdentifier|EMP1042|SA|National ID|9000000042|wor_1042|Y|pni_1042|GRISMO
+MERGE|PersonNationalIdentifier|EMP1043|SA|National ID|9000000043|wor_1043|Y|pni_1043|GRISMO
+MERGE|PersonNationalIdentifier|EMP1044|SA|National ID|9000000044|wor_1044|Y|pni_1044|GRISMO
+MERGE|PersonNationalIdentifier|EMP1045|SA|National ID|9000000045|wor_1045|Y|pni_1045|GRISMO
+MERGE|PersonNationalIdentifier|EMP1046|SA|National ID|9000000046|wor_1046|Y|pni_1046|GRISMO
+MERGE|PersonNationalIdentifier|EMP1047|SA|National ID|9000000047|wor_1047|Y|pni_1047|GRISMO
+MERGE|PersonNationalIdentifier|EMP1048|SA|National ID|9000000048|wor_1048|Y|pni_1048|GRISMO
+MERGE|PersonNationalIdentifier|EMP1049|SA|National ID|9000000049|wor_1049|Y|pni_1049|GRISMO
+MERGE|PersonNationalIdentifier|EMP1050|SA|National ID|9000000050|wor_1050|Y|pni_1050|GRISMO
+MERGE|PersonNationalIdentifier|EMP1051|SA|National ID|9000000051|wor_1051|Y|pni_1051|GRISMO
+MERGE|PersonNationalIdentifier|EMP1052|SA|National ID|9000000052|wor_1052|Y|pni_1052|GRISMO
+MERGE|PersonNationalIdentifier|EMP1053|SA|National ID|9000000053|wor_1053|Y|pni_1053|GRISMO
+MERGE|PersonNationalIdentifier|EMP1054|SA|National ID|9000000054|wor_1054|Y|pni_1054|GRISMO
+MERGE|PersonNationalIdentifier|EMP1055|SA|National ID|9000000055|wor_1055|Y|pni_1055|GRISMO
+MERGE|PersonNationalIdentifier|EMP1056|SA|National ID|9000000056|wor_1056|Y|pni_1056|GRISMO
+MERGE|PersonNationalIdentifier|EMP1057|SA|National ID|9000000057|wor_1057|Y|pni_1057|GRISMO
+MERGE|PersonNationalIdentifier|EMP1058|SA|National ID|9000000058|wor_1058|Y|pni_1058|GRISMO
+MERGE|PersonNationalIdentifier|EMP1059|SA|National ID|9000000059|wor_1059|Y|pni_1059|GRISMO
+MERGE|PersonNationalIdentifier|EMP1060|SA|National ID|9000000060|wor_1060|Y|pni_1060|GRISMO
+MERGE|PersonNationalIdentifier|EMP1061|SA|National ID|9000000061|wor_1061|Y|pni_1061|GRISMO
+MERGE|PersonNationalIdentifier|EMP1062|SA|National ID|9000000062|wor_1062|Y|pni_1062|GRISMO
+MERGE|PersonNationalIdentifier|EMP1063|SA|National ID|9000000063|wor_1063|Y|pni_1063|GRISMO
+MERGE|PersonNationalIdentifier|EMP1064|SA|National ID|9000000064|wor_1064|Y|pni_1064|GRISMO
+MERGE|PersonNationalIdentifier|EMP1065|SA|National ID|9000000065|wor_1065|Y|pni_1065|GRISMO
+MERGE|PersonNationalIdentifier|EMP1066|SA|National ID|9000000066|wor_1066|Y|pni_1066|GRISMO
+MERGE|PersonNationalIdentifier|EMP1067|SA|National ID|9000000067|wor_1067|Y|pni_1067|GRISMO
+MERGE|PersonNationalIdentifier|EMP1068|SA|National ID|9000000068|wor_1068|Y|pni_1068|GRISMO
+MERGE|PersonNationalIdentifier|EMP1069|SA|National ID|9000000069|wor_1069|Y|pni_1069|GRISMO
+MERGE|PersonNationalIdentifier|EMP1070|SA|National ID|9000000070|wor_1070|Y|pni_1070|GRISMO
+MERGE|PersonNationalIdentifier|EMP1071|SA|National ID|9000000071|wor_1071|Y|pni_1071|GRISMO
+MERGE|PersonNationalIdentifier|EMP1072|SA|National ID|9000000072|wor_1072|Y|pni_1072|GRISMO
+MERGE|PersonNationalIdentifier|EMP1073|SA|National ID|9000000073|wor_1073|Y|pni_1073|GRISMO
+MERGE|PersonNationalIdentifier|EMP1074|SA|National ID|9000000074|wor_1074|Y|pni_1074|GRISMO
+MERGE|PersonNationalIdentifier|EMP1075|SA|National ID|9000000075|wor_1075|Y|pni_1075|GRISMO
+MERGE|PersonNationalIdentifier|EMP1076|SA|National ID|9000000076|wor_1076|Y|pni_1076|GRISMO
+MERGE|PersonNationalIdentifier|EMP1077|SA|National ID|9000000077|wor_1077|Y|pni_1077|GRISMO
+MERGE|PersonNationalIdentifier|EMP1078|SA|National ID|9000000078|wor_1078|Y|pni_1078|GRISMO
+MERGE|PersonNationalIdentifier|EMP1079|SA|National ID|9000000079|wor_1079|Y|pni_1079|GRISMO
+MERGE|PersonNationalIdentifier|EMP1080|SA|National ID|9000000080|wor_1080|Y|pni_1080|GRISMO
+MERGE|PersonNationalIdentifier|EMP1081|SA|National ID|9000000081|wor_1081|Y|pni_1081|GRISMO
+MERGE|PersonNationalIdentifier|EMP1082|SA|National ID|9000000082|wor_1082|Y|pni_1082|GRISMO
+MERGE|PersonNationalIdentifier|EMP1083|SA|National ID|9000000083|wor_1083|Y|pni_1083|GRISMO
+MERGE|PersonNationalIdentifier|EMP1084|SA|National ID|9000000084|wor_1084|Y|pni_1084|GRISMO
+MERGE|PersonNationalIdentifier|EMP1085|SA|National ID|9000000085|wor_1085|Y|pni_1085|GRISMO
+MERGE|PersonNationalIdentifier|EMP1086|SA|National ID|9000000086|wor_1086|Y|pni_1086|GRISMO
+MERGE|PersonNationalIdentifier|EMP1087|SA|National ID|9000000087|wor_1087|Y|pni_1087|GRISMO
+MERGE|PersonNationalIdentifier|EMP1088|SA|National ID|9000000088|wor_1088|Y|pni_1088|GRISMO
+MERGE|PersonNationalIdentifier|EMP1089|SA|National ID|9000000089|wor_1089|Y|pni_1089|GRISMO
+MERGE|PersonNationalIdentifier|EMP1090|SA|National ID|9000000090|wor_1090|Y|pni_1090|GRISMO
+MERGE|PersonNationalIdentifier|EMP1091|SA|National ID|9000000091|wor_1091|Y|pni_1091|GRISMO
+MERGE|PersonNationalIdentifier|EMP1092|SA|National ID|9000000092|wor_1092|Y|pni_1092|GRISMO
+MERGE|PersonNationalIdentifier|EMP1093|SA|National ID|9000000093|wor_1093|Y|pni_1093|GRISMO
+MERGE|PersonNationalIdentifier|EMP1094|SA|National ID|9000000094|wor_1094|Y|pni_1094|GRISMO
+MERGE|PersonNationalIdentifier|EMP1095|SA|National ID|9000000095|wor_1095|Y|pni_1095|GRISMO
+MERGE|PersonNationalIdentifier|EMP1096|SA|National ID|9000000096|wor_1096|Y|pni_1096|GRISMO
+MERGE|PersonNationalIdentifier|EMP1097|SA|National ID|9000000097|wor_1097|Y|pni_1097|GRISMO
+MERGE|PersonNationalIdentifier|EMP1098|SA|National ID|9000000098|wor_1098|Y|pni_1098|GRISMO
+MERGE|PersonNationalIdentifier|EMP1099|SA|National ID|9000000099|wor_1099|Y|pni_1099|GRISMO
+MERGE|PersonNationalIdentifier|EMP1100|SA|National ID|9000000100|wor_1100|Y|pni_1100|GRISMO
+METADATA|PersonPhone|PhoneType|PersonNumber|DateFrom|LegislationCode|PhoneNumber|PrimaryFlag|SourceSystemId|SourceSystemOwner
+MERGE|PersonPhone|W1|EMP1001|2020/01/01|SA|520000000|Y|pp_1001|GRISMO
+MERGE|PersonPhone|W1|EMP1002|2021/02/01|SA|520000001|Y|pp_1002|GRISMO
+MERGE|PersonPhone|W1|EMP1003|2022/03/04|SA|520000002|Y|pp_1003|GRISMO
+MERGE|PersonPhone|W1|EMP1004|2023/04/04|SA|520000003|Y|pp_1004|GRISMO
+MERGE|PersonPhone|W1|EMP1005|2024/05/04|SA|520000004|Y|pp_1005|GRISMO
+MERGE|PersonPhone|W1|EMP1006|2025/06/05|SA|520000005|Y|pp_1006|GRISMO
+MERGE|PersonPhone|W1|EMP1007|2020/07/05|SA|520000006|Y|pp_1007|GRISMO
+MERGE|PersonPhone|W1|EMP1008|2021/08/06|SA|520000007|Y|pp_1008|GRISMO
+MERGE|PersonPhone|W1|EMP1009|2022/09/06|SA|520000008|Y|pp_1009|GRISMO
+MERGE|PersonPhone|W1|EMP1010|2023/10/07|SA|520000009|Y|pp_1010|GRISMO
+MERGE|PersonPhone|W1|EMP1011|2024/11/06|SA|520000010|Y|pp_1011|GRISMO
+MERGE|PersonPhone|W1|EMP1012|2025/12/08|SA|520000011|Y|pp_1012|GRISMO
+MERGE|PersonPhone|W1|EMP1013|2020/01/23|SA|520000012|Y|pp_1013|GRISMO
+MERGE|PersonPhone|W1|EMP1014|2021/02/23|SA|520000013|Y|pp_1014|GRISMO
+MERGE|PersonPhone|W1|EMP1015|2022/03/26|SA|520000014|Y|pp_1015|GRISMO
+MERGE|PersonPhone|W1|EMP1016|2023/04/26|SA|520000015|Y|pp_1016|GRISMO
+MERGE|PersonPhone|W1|EMP1017|2024/05/26|SA|520000016|Y|pp_1017|GRISMO
+MERGE|PersonPhone|W1|EMP1018|2025/06/27|SA|520000017|Y|pp_1018|GRISMO
+MERGE|PersonPhone|W1|EMP1019|2020/07/27|SA|520000018|Y|pp_1019|GRISMO
+MERGE|PersonPhone|W1|EMP1020|2021/08/28|SA|520000019|Y|pp_1020|GRISMO
+MERGE|PersonPhone|W1|EMP1021|2022/09/28|SA|520000020|Y|pp_1021|GRISMO
+MERGE|PersonPhone|W1|EMP1022|2023/10/29|SA|520000021|Y|pp_1022|GRISMO
+MERGE|PersonPhone|W1|EMP1023|2024/11/28|SA|520000022|Y|pp_1023|GRISMO
+MERGE|PersonPhone|W1|EMP1024|2025/01/14|SA|520000023|Y|pp_1024|GRISMO
+MERGE|PersonPhone|W1|EMP1025|2020/02/14|SA|520000024|Y|pp_1025|GRISMO
+MERGE|PersonPhone|W1|EMP1026|2021/03/17|SA|520000025|Y|pp_1026|GRISMO
+MERGE|PersonPhone|W1|EMP1027|2022/04/17|SA|520000026|Y|pp_1027|GRISMO
+MERGE|PersonPhone|W1|EMP1028|2023/05/18|SA|520000027|Y|pp_1028|GRISMO
+MERGE|PersonPhone|W1|EMP1029|2024/06/17|SA|520000028|Y|pp_1029|GRISMO
+MERGE|PersonPhone|W1|EMP1030|2025/07/19|SA|520000029|Y|pp_1030|GRISMO
+MERGE|PersonPhone|W1|EMP1031|2020/08/18|SA|520000030|Y|pp_1031|GRISMO
+MERGE|PersonPhone|W1|EMP1032|2021/09/19|SA|520000031|Y|pp_1032|GRISMO
+MERGE|PersonPhone|W1|EMP1033|2022/10/20|SA|520000032|Y|pp_1033|GRISMO
+MERGE|PersonPhone|W1|EMP1034|2023/11/20|SA|520000033|Y|pp_1034|GRISMO
+MERGE|PersonPhone|W1|EMP1035|2024/01/05|SA|520000034|Y|pp_1035|GRISMO
+MERGE|PersonPhone|W1|EMP1036|2025/02/05|SA|520000035|Y|pp_1036|GRISMO
+MERGE|PersonPhone|W1|EMP1037|2020/03/07|SA|520000036|Y|pp_1037|GRISMO
+MERGE|PersonPhone|W1|EMP1038|2021/04/08|SA|520000037|Y|pp_1038|GRISMO
+MERGE|PersonPhone|W1|EMP1039|2022/05/09|SA|520000038|Y|pp_1039|GRISMO
+MERGE|PersonPhone|W1|EMP1040|2023/06/09|SA|520000039|Y|pp_1040|GRISMO
+MERGE|PersonPhone|W1|EMP1041|2024/07/09|SA|520000040|Y|pp_1041|GRISMO
+MERGE|PersonPhone|W1|EMP1042|2025/08/10|SA|520000041|Y|pp_1042|GRISMO
+MERGE|PersonPhone|W1|EMP1043|2020/09/09|SA|520000042|Y|pp_1043|GRISMO
+MERGE|PersonPhone|W1|EMP1044|2021/10/11|SA|520000043|Y|pp_1044|GRISMO
+MERGE|PersonPhone|W1|EMP1045|2022/11/11|SA|520000044|Y|pp_1045|GRISMO
+MERGE|PersonPhone|W1|EMP1046|2023/12/12|SA|520000045|Y|pp_1046|GRISMO
+MERGE|PersonPhone|W1|EMP1047|2024/01/27|SA|520000046|Y|pp_1047|GRISMO
+MERGE|PersonPhone|W1|EMP1048|2025/02/27|SA|520000047|Y|pp_1048|GRISMO
+MERGE|PersonPhone|W1|EMP1049|2020/03/29|SA|520000048|Y|pp_1049|GRISMO
+MERGE|PersonPhone|W1|EMP1050|2021/04/30|SA|520000049|Y|pp_1050|GRISMO
+MERGE|PersonPhone|W1|EMP1051|2022/05/31|SA|520000050|Y|pp_1051|GRISMO
+MERGE|PersonPhone|W1|EMP1052|2023/07/01|SA|520000051|Y|pp_1052|GRISMO
+MERGE|PersonPhone|W1|EMP1053|2024/07/31|SA|520000052|Y|pp_1053|GRISMO
+MERGE|PersonPhone|W1|EMP1054|2025/09/01|SA|520000053|Y|pp_1054|GRISMO
+MERGE|PersonPhone|W1|EMP1055|2020/10/01|SA|520000054|Y|pp_1055|GRISMO
+MERGE|PersonPhone|W1|EMP1056|2021/11/02|SA|520000055|Y|pp_1056|GRISMO
+MERGE|PersonPhone|W1|EMP1057|2022/12/03|SA|520000056|Y|pp_1057|GRISMO
+MERGE|PersonPhone|W1|EMP1058|2023/01/18|SA|520000057|Y|pp_1058|GRISMO
+MERGE|PersonPhone|W1|EMP1059|2024/02/18|SA|520000058|Y|pp_1059|GRISMO
+MERGE|PersonPhone|W1|EMP1060|2025/03/21|SA|520000059|Y|pp_1060|GRISMO
+MERGE|PersonPhone|W1|EMP1061|2020/04/20|SA|520000060|Y|pp_1061|GRISMO
+MERGE|PersonPhone|W1|EMP1062|2021/05/22|SA|520000061|Y|pp_1062|GRISMO
+MERGE|PersonPhone|W1|EMP1063|2022/06/22|SA|520000062|Y|pp_1063|GRISMO
+MERGE|PersonPhone|W1|EMP1064|2023/07/23|SA|520000063|Y|pp_1064|GRISMO
+MERGE|PersonPhone|W1|EMP1065|2024/08/22|SA|520000064|Y|pp_1065|GRISMO
+MERGE|PersonPhone|W1|EMP1066|2025/09/23|SA|520000065|Y|pp_1066|GRISMO
+MERGE|PersonPhone|W1|EMP1067|2020/10/23|SA|520000066|Y|pp_1067|GRISMO
+MERGE|PersonPhone|W1|EMP1068|2021/11/24|SA|520000067|Y|pp_1068|GRISMO
+MERGE|PersonPhone|W1|EMP1069|2022/01/09|SA|520000068|Y|pp_1069|GRISMO
+MERGE|PersonPhone|W1|EMP1070|2023/02/09|SA|520000069|Y|pp_1070|GRISMO
+MERGE|PersonPhone|W1|EMP1071|2024/03/11|SA|520000070|Y|pp_1071|GRISMO
+MERGE|PersonPhone|W1|EMP1072|2025/04/12|SA|520000071|Y|pp_1072|GRISMO
+MERGE|PersonPhone|W1|EMP1073|2020/05/12|SA|520000072|Y|pp_1073|GRISMO
+MERGE|PersonPhone|W1|EMP1074|2021/06/13|SA|520000073|Y|pp_1074|GRISMO
+MERGE|PersonPhone|W1|EMP1075|2022/07/14|SA|520000074|Y|pp_1075|GRISMO
+MERGE|PersonPhone|W1|EMP1076|2023/08/14|SA|520000075|Y|pp_1076|GRISMO
+MERGE|PersonPhone|W1|EMP1077|2024/09/13|SA|520000076|Y|pp_1077|GRISMO
+MERGE|PersonPhone|W1|EMP1078|2025/10/15|SA|520000077|Y|pp_1078|GRISMO
+MERGE|PersonPhone|W1|EMP1079|2020/11/14|SA|520000078|Y|pp_1079|GRISMO
+MERGE|PersonPhone|W1|EMP1080|2021/12/16|SA|520000079|Y|pp_1080|GRISMO
+MERGE|PersonPhone|W1|EMP1081|2022/01/31|SA|520000080|Y|pp_1081|GRISMO
+MERGE|PersonPhone|W1|EMP1082|2023/03/03|SA|520000081|Y|pp_1082|GRISMO
+MERGE|PersonPhone|W1|EMP1083|2024/04/02|SA|520000082|Y|pp_1083|GRISMO
+MERGE|PersonPhone|W1|EMP1084|2025/05/04|SA|520000083|Y|pp_1084|GRISMO
+MERGE|PersonPhone|W1|EMP1085|2020/06/03|SA|520000084|Y|pp_1085|GRISMO
+MERGE|PersonPhone|W1|EMP1086|2021/07/05|SA|520000085|Y|pp_1086|GRISMO
+MERGE|PersonPhone|W1|EMP1087|2022/08/05|SA|520000086|Y|pp_1087|GRISMO
+MERGE|PersonPhone|W1|EMP1088|2023/09/05|SA|520000087|Y|pp_1088|GRISMO
+MERGE|PersonPhone|W1|EMP1089|2024/10/05|SA|520000088|Y|pp_1089|GRISMO
+MERGE|PersonPhone|W1|EMP1090|2025/11/06|SA|520000089|Y|pp_1090|GRISMO
+MERGE|PersonPhone|W1|EMP1091|2020/12/06|SA|520000090|Y|pp_1091|GRISMO
+MERGE|PersonPhone|W1|EMP1092|2021/01/22|SA|520000091|Y|pp_1092|GRISMO
+MERGE|PersonPhone|W1|EMP1093|2022/02/22|SA|520000092|Y|pp_1093|GRISMO
+MERGE|PersonPhone|W1|EMP1094|2023/03/25|SA|520000093|Y|pp_1094|GRISMO
+MERGE|PersonPhone|W1|EMP1095|2024/04/24|SA|520000094|Y|pp_1095|GRISMO
+MERGE|PersonPhone|W1|EMP1096|2025/05/26|SA|520000095|Y|pp_1096|GRISMO
+MERGE|PersonPhone|W1|EMP1097|2020/06/25|SA|520000096|Y|pp_1097|GRISMO
+MERGE|PersonPhone|W1|EMP1098|2021/07/27|SA|520000097|Y|pp_1098|GRISMO
+MERGE|PersonPhone|W1|EMP1099|2022/08/27|SA|520000098|Y|pp_1099|GRISMO
+MERGE|PersonPhone|W1|EMP1100|2023/09/27|SA|520000099|Y|pp_1100|GRISMO
+METADATA|Worker|EffectiveStartDate|PersonNumber|StartDate|DateOfBirth|ActionCode|SourceSystemId|SourceSystemOwner
+MERGE|Worker|2020/01/01|EMP1001|2020/01/01|1980/01/01||wor_1001|GRISMO
+MERGE|Worker|2021/02/01|EMP1002|2021/02/01|1981/02/13||wor_1002|GRISMO
+MERGE|Worker|2022/03/04|EMP1003|2022/03/04|1982/03/28||wor_1003|GRISMO
+MERGE|Worker|2023/04/04|EMP1004|2023/04/04|1983/05/10||wor_1004|GRISMO
+MERGE|Worker|2024/05/04|EMP1005|2024/05/04|1984/06/21||wor_1005|GRISMO
+MERGE|Worker|2025/06/05|EMP1006|2025/06/05|1985/08/04||wor_1006|GRISMO
+MERGE|Worker|2020/07/05|EMP1007|2020/07/05|1986/09/16||wor_1007|GRISMO
+MERGE|Worker|2021/08/06|EMP1008|2021/08/06|1987/10/29||wor_1008|GRISMO
+MERGE|Worker|2022/09/06|EMP1009|2022/09/06|1988/12/10||wor_1009|GRISMO
+MERGE|Worker|2023/10/07|EMP1010|2023/10/07|1989/02/07||wor_1010|GRISMO
+MERGE|Worker|2024/11/06|EMP1011|2024/11/06|1990/03/22||wor_1011|GRISMO
+MERGE|Worker|2025/12/08|EMP1012|2025/12/08|1991/05/04||wor_1012|GRISMO
+MERGE|Worker|2020/01/23|EMP1013|2020/01/23|1992/06/15||wor_1013|GRISMO
+MERGE|Worker|2021/02/23|EMP1014|2021/02/23|1993/07/29||wor_1014|GRISMO
+MERGE|Worker|2022/03/26|EMP1015|2022/03/26|1994/09/10||wor_1015|GRISMO
+MERGE|Worker|2023/04/26|EMP1016|2023/04/26|1995/10/23||wor_1016|GRISMO
+MERGE|Worker|2024/05/26|EMP1017|2024/05/26|1996/12/04||wor_1017|GRISMO
+MERGE|Worker|2025/06/27|EMP1018|2025/06/27|1997/02/01||wor_1018|GRISMO
+MERGE|Worker|2020/07/27|EMP1019|2020/07/27|1998/03/16||wor_1019|GRISMO
+MERGE|Worker|2021/08/28|EMP1020|2021/08/28|1999/04/28||wor_1020|GRISMO
+MERGE|Worker|2022/09/28|EMP1021|2022/09/28|2000/06/09||wor_1021|GRISMO
+MERGE|Worker|2023/10/29|EMP1022|2023/10/29|2001/07/23||wor_1022|GRISMO
+MERGE|Worker|2024/11/28|EMP1023|2024/11/28|2002/09/04||wor_1023|GRISMO
+MERGE|Worker|2025/01/14|EMP1024|2025/01/14|1980/10/16||wor_1024|GRISMO
+MERGE|Worker|2020/02/14|EMP1025|2020/02/14|1981/11/29||wor_1025|GRISMO
+MERGE|Worker|2021/03/17|EMP1026|2021/03/17|1982/01/26||wor_1026|GRISMO
+MERGE|Worker|2022/04/17|EMP1027|2022/04/17|1983/03/10||wor_1027|GRISMO
+MERGE|Worker|2023/05/18|EMP1028|2023/05/18|1984/04/21||wor_1028|GRISMO
+MERGE|Worker|2024/06/17|EMP1029|2024/06/17|1985/06/04||wor_1029|GRISMO
+MERGE|Worker|2025/07/19|EMP1030|2025/07/19|1986/07/17||wor_1030|GRISMO
+MERGE|Worker|2020/08/18|EMP1031|2020/08/18|1987/08/29||wor_1031|GRISMO
+MERGE|Worker|2021/09/19|EMP1032|2021/09/19|1988/10/10||wor_1032|GRISMO
+MERGE|Worker|2022/10/20|EMP1033|2022/10/20|1989/11/23||wor_1033|GRISMO
+MERGE|Worker|2023/11/20|EMP1034|2023/11/20|1990/01/20||wor_1034|GRISMO
+MERGE|Worker|2024/01/05|EMP1035|2024/01/05|1991/03/04||wor_1035|GRISMO
+MERGE|Worker|2025/02/05|EMP1036|2025/02/05|1992/04/15||wor_1036|GRISMO
+MERGE|Worker|2020/03/07|EMP1037|2020/03/07|1993/05/29||wor_1037|GRISMO
+MERGE|Worker|2021/04/08|EMP1038|2021/04/08|1994/07/11||wor_1038|GRISMO
+MERGE|Worker|2022/05/09|EMP1039|2022/05/09|1995/08/23||wor_1039|GRISMO
+MERGE|Worker|2023/06/09|EMP1040|2023/06/09|1996/10/04||wor_1040|GRISMO
+MERGE|Worker|2024/07/09|EMP1041|2024/07/09|1997/11/17||wor_1041|GRISMO
+MERGE|Worker|2025/08/10|EMP1042|2025/08/10|1998/01/14||wor_1042|GRISMO
+MERGE|Worker|2020/09/09|EMP1043|2020/09/09|1999/02/26||wor_1043|GRISMO
+MERGE|Worker|2021/10/11|EMP1044|2021/10/11|2000/04/09||wor_1044|GRISMO
+MERGE|Worker|2022/11/11|EMP1045|2022/11/11|2001/05/23||wor_1045|GRISMO
+MERGE|Worker|2023/12/12|EMP1046|2023/12/12|2002/07/05||wor_1046|GRISMO
+MERGE|Worker|2024/01/27|EMP1047|2024/01/27|1980/08/16||wor_1047|GRISMO
+MERGE|Worker|2025/02/27|EMP1048|2025/02/27|1981/09/29||wor_1048|GRISMO
+MERGE|Worker|2020/03/29|EMP1049|2020/03/29|1982/11/11||wor_1049|GRISMO
+MERGE|Worker|2021/04/30|EMP1050|2021/04/30|1983/01/08||wor_1050|GRISMO
+MERGE|Worker|2022/05/31|EMP1051|2022/05/31|1984/02/20||wor_1051|GRISMO
+MERGE|Worker|2023/07/01|EMP1052|2023/07/01|1985/04/04||wor_1052|GRISMO
+MERGE|Worker|2024/07/31|EMP1053|2024/07/31|1986/05/17||wor_1053|GRISMO
+MERGE|Worker|2025/09/01|EMP1054|2025/09/01|1987/06/29||wor_1054|GRISMO
+MERGE|Worker|2020/10/01|EMP1055|2020/10/01|1988/08/10||wor_1055|GRISMO
+MERGE|Worker|2021/11/02|EMP1056|2021/11/02|1989/09/23||wor_1056|GRISMO
+MERGE|Worker|2022/12/03|EMP1057|2022/12/03|1990/11/05||wor_1057|GRISMO
+MERGE|Worker|2023/01/18|EMP1058|2023/01/18|1991/01/02||wor_1058|GRISMO
+MERGE|Worker|2024/02/18|EMP1059|2024/02/18|1992/02/14||wor_1059|GRISMO
+MERGE|Worker|2025/03/21|EMP1060|2025/03/21|1993/03/29||wor_1060|GRISMO
+MERGE|Worker|2020/04/20|EMP1061|2020/04/20|1994/05/11||wor_1061|GRISMO
+MERGE|Worker|2021/05/22|EMP1062|2021/05/22|1995/06/23||wor_1062|GRISMO
+MERGE|Worker|2022/06/22|EMP1063|2022/06/22|1996/08/04||wor_1063|GRISMO
+MERGE|Worker|2023/07/23|EMP1064|2023/07/23|1997/09/17||wor_1064|GRISMO
+MERGE|Worker|2024/08/22|EMP1065|2024/08/22|1998/10/30||wor_1065|GRISMO
+MERGE|Worker|2025/09/23|EMP1066|2025/09/23|1999/12/12||wor_1066|GRISMO
+MERGE|Worker|2020/10/23|EMP1067|2020/10/23|2000/02/08||wor_1067|GRISMO
+MERGE|Worker|2021/11/24|EMP1068|2021/11/24|2001/03/23||wor_1068|GRISMO
+MERGE|Worker|2022/01/09|EMP1069|2022/01/09|2002/05/05||wor_1069|GRISMO
+MERGE|Worker|2023/02/09|EMP1070|2023/02/09|1980/06/16||wor_1070|GRISMO
+MERGE|Worker|2024/03/11|EMP1071|2024/03/11|1981/07/30||wor_1071|GRISMO
+MERGE|Worker|2025/04/12|EMP1072|2025/04/12|1982/09/11||wor_1072|GRISMO
+MERGE|Worker|2020/05/12|EMP1073|2020/05/12|1983/10/24||wor_1073|GRISMO
+MERGE|Worker|2021/06/13|EMP1074|2021/06/13|1984/12/05||wor_1074|GRISMO
+MERGE|Worker|2022/07/14|EMP1075|2022/07/14|1985/02/02||wor_1075|GRISMO
+MERGE|Worker|2023/08/14|EMP1076|2023/08/14|1986/03/17||wor_1076|GRISMO
+MERGE|Worker|2024/09/13|EMP1077|2024/09/13|1987/04/29||wor_1077|GRISMO
+MERGE|Worker|2025/10/15|EMP1078|2025/10/15|1988/06/10||wor_1078|GRISMO
+MERGE|Worker|2020/11/14|EMP1079|2020/11/14|1989/07/24||wor_1079|GRISMO
+MERGE|Worker|2021/12/16|EMP1080|2021/12/16|1990/09/05||wor_1080|GRISMO
+MERGE|Worker|2022/01/31|EMP1081|2022/01/31|1991/10/18||wor_1081|GRISMO
+MERGE|Worker|2023/03/03|EMP1082|2023/03/03|1992/11/29||wor_1082|GRISMO
+MERGE|Worker|2024/04/02|EMP1083|2024/04/02|1993/01/27||wor_1083|GRISMO
+MERGE|Worker|2025/05/04|EMP1084|2025/05/04|1994/03/11||wor_1084|GRISMO
+MERGE|Worker|2020/06/03|EMP1085|2020/06/03|1995/04/23||wor_1085|GRISMO
+MERGE|Worker|2021/07/05|EMP1086|2021/07/05|1996/06/04||wor_1086|GRISMO
+MERGE|Worker|2022/08/05|EMP1087|2022/08/05|1997/07/18||wor_1087|GRISMO
+MERGE|Worker|2023/09/05|EMP1088|2023/09/05|1998/08/30||wor_1088|GRISMO
+MERGE|Worker|2024/10/05|EMP1089|2024/10/05|1999/10/12||wor_1089|GRISMO
+MERGE|Worker|2025/11/06|EMP1090|2025/11/06|2000/11/23||wor_1090|GRISMO
+MERGE|Worker|2020/12/06|EMP1091|2020/12/06|2001/01/21||wor_1091|GRISMO
+MERGE|Worker|2021/01/22|EMP1092|2021/01/22|2002/03/05||wor_1092|GRISMO
+MERGE|Worker|2022/02/22|EMP1093|2022/02/22|1980/04/16||wor_1093|GRISMO
+MERGE|Worker|2023/03/25|EMP1094|2023/03/25|1981/05/30||wor_1094|GRISMO
+MERGE|Worker|2024/04/24|EMP1095|2024/04/24|1982/07/12||wor_1095|GRISMO
+MERGE|Worker|2025/05/26|EMP1096|2025/05/26|1983/08/24||wor_1096|GRISMO
+MERGE|Worker|2020/06/25|EMP1097|2020/06/25|1984/10/05||wor_1097|GRISMO
+MERGE|Worker|2021/07/27|EMP1098|2021/07/27|1985/11/18||wor_1098|GRISMO
+MERGE|Worker|2022/08/27|EMP1099|2022/08/27|1986/01/15||wor_1099|GRISMO
+MERGE|Worker|2023/09/27|EMP1100|2023/09/27|1987/02/27||wor_1100|GRISMO
+METADATA|WorkRelationship|PersonId(SourceSystemId)|LegalEmployerName|DateStart|WorkerType|PrimaryFlag|SourceSystemId|SourceSystemOwner
+MERGE|WorkRelationship|wor_1001|MIS LE|2020/01/01|Employee|Y|wr_1001|GRISMO
+MERGE|WorkRelationship|wor_1002|MIS LE|2021/02/01|Contingent Worker|Y|wr_1002|GRISMO
+MERGE|WorkRelationship|wor_1003|MIS LE|2022/03/04|Employee|Y|wr_1003|GRISMO
+MERGE|WorkRelationship|wor_1004|MIS LE|2023/04/04|Contingent Worker|Y|wr_1004|GRISMO
+MERGE|WorkRelationship|wor_1005|MIS LE|2024/05/04|Employee|Y|wr_1005|GRISMO
+MERGE|WorkRelationship|wor_1006|MIS LE|2025/06/05|Contingent Worker|Y|wr_1006|GRISMO
+MERGE|WorkRelationship|wor_1007|MIS LE|2020/07/05|Employee|Y|wr_1007|GRISMO
+MERGE|WorkRelationship|wor_1008|MIS LE|2021/08/06|Contingent Worker|Y|wr_1008|GRISMO
+MERGE|WorkRelationship|wor_1009|MIS LE|2022/09/06|Employee|Y|wr_1009|GRISMO
+MERGE|WorkRelationship|wor_1010|MIS LE|2023/10/07|Contingent Worker|Y|wr_1010|GRISMO
+MERGE|WorkRelationship|wor_1011|MIS LE|2024/11/06|Employee|Y|wr_1011|GRISMO
+MERGE|WorkRelationship|wor_1012|MIS LE|2025/12/08|Contingent Worker|Y|wr_1012|GRISMO
+MERGE|WorkRelationship|wor_1013|MIS LE|2020/01/23|Employee|Y|wr_1013|GRISMO
+MERGE|WorkRelationship|wor_1014|MIS LE|2021/02/23|Contingent Worker|Y|wr_1014|GRISMO
+MERGE|WorkRelationship|wor_1015|MIS LE|2022/03/26|Employee|Y|wr_1015|GRISMO
+MERGE|WorkRelationship|wor_1016|MIS LE|2023/04/26|Contingent Worker|Y|wr_1016|GRISMO
+MERGE|WorkRelationship|wor_1017|MIS LE|2024/05/26|Employee|Y|wr_1017|GRISMO
+MERGE|WorkRelationship|wor_1018|MIS LE|2025/06/27|Contingent Worker|Y|wr_1018|GRISMO
+MERGE|WorkRelationship|wor_1019|MIS LE|2020/07/27|Employee|Y|wr_1019|GRISMO
+MERGE|WorkRelationship|wor_1020|MIS LE|2021/08/28|Contingent Worker|Y|wr_1020|GRISMO
+MERGE|WorkRelationship|wor_1021|MIS LE|2022/09/28|Employee|Y|wr_1021|GRISMO
+MERGE|WorkRelationship|wor_1022|MIS LE|2023/10/29|Contingent Worker|Y|wr_1022|GRISMO
+MERGE|WorkRelationship|wor_1023|MIS LE|2024/11/28|Employee|Y|wr_1023|GRISMO
+MERGE|WorkRelationship|wor_1024|MIS LE|2025/01/14|Contingent Worker|Y|wr_1024|GRISMO
+MERGE|WorkRelationship|wor_1025|MIS LE|2020/02/14|Employee|Y|wr_1025|GRISMO
+MERGE|WorkRelationship|wor_1026|MIS LE|2021/03/17|Contingent Worker|Y|wr_1026|GRISMO
+MERGE|WorkRelationship|wor_1027|MIS LE|2022/04/17|Employee|Y|wr_1027|GRISMO
+MERGE|WorkRelationship|wor_1028|MIS LE|2023/05/18|Contingent Worker|Y|wr_1028|GRISMO
+MERGE|WorkRelationship|wor_1029|MIS LE|2024/06/17|Employee|Y|wr_1029|GRISMO
+MERGE|WorkRelationship|wor_1030|MIS LE|2025/07/19|Contingent Worker|Y|wr_1030|GRISMO
+MERGE|WorkRelationship|wor_1031|MIS LE|2020/08/18|Employee|Y|wr_1031|GRISMO
+MERGE|WorkRelationship|wor_1032|MIS LE|2021/09/19|Contingent Worker|Y|wr_1032|GRISMO
+MERGE|WorkRelationship|wor_1033|MIS LE|2022/10/20|Employee|Y|wr_1033|GRISMO
+MERGE|WorkRelationship|wor_1034|MIS LE|2023/11/20|Contingent Worker|Y|wr_1034|GRISMO
+MERGE|WorkRelationship|wor_1035|MIS LE|2024/01/05|Employee|Y|wr_1035|GRISMO
+MERGE|WorkRelationship|wor_1036|MIS LE|2025/02/05|Contingent Worker|Y|wr_1036|GRISMO
+MERGE|WorkRelationship|wor_1037|MIS LE|2020/03/07|Employee|Y|wr_1037|GRISMO
+MERGE|WorkRelationship|wor_1038|MIS LE|2021/04/08|Contingent Worker|Y|wr_1038|GRISMO
+MERGE|WorkRelationship|wor_1039|MIS LE|2022/05/09|Employee|Y|wr_1039|GRISMO
+MERGE|WorkRelationship|wor_1040|MIS LE|2023/06/09|Contingent Worker|Y|wr_1040|GRISMO
+MERGE|WorkRelationship|wor_1041|MIS LE|2024/07/09|Employee|Y|wr_1041|GRISMO
+MERGE|WorkRelationship|wor_1042|MIS LE|2025/08/10|Contingent Worker|Y|wr_1042|GRISMO
+MERGE|WorkRelationship|wor_1043|MIS LE|2020/09/09|Employee|Y|wr_1043|GRISMO
+MERGE|WorkRelationship|wor_1044|MIS LE|2021/10/11|Contingent Worker|Y|wr_1044|GRISMO
+MERGE|WorkRelationship|wor_1045|MIS LE|2022/11/11|Employee|Y|wr_1045|GRISMO
+MERGE|WorkRelationship|wor_1046|MIS LE|2023/12/12|Contingent Worker|Y|wr_1046|GRISMO
+MERGE|WorkRelationship|wor_1047|MIS LE|2024/01/27|Employee|Y|wr_1047|GRISMO
+MERGE|WorkRelationship|wor_1048|MIS LE|2025/02/27|Contingent Worker|Y|wr_1048|GRISMO
+MERGE|WorkRelationship|wor_1049|MIS LE|2020/03/29|Employee|Y|wr_1049|GRISMO
+MERGE|WorkRelationship|wor_1050|MIS LE|2021/04/30|Contingent Worker|Y|wr_1050|GRISMO
+MERGE|WorkRelationship|wor_1051|MIS LE|2022/05/31|Employee|Y|wr_1051|GRISMO
+MERGE|WorkRelationship|wor_1052|MIS LE|2023/07/01|Contingent Worker|Y|wr_1052|GRISMO
+MERGE|WorkRelationship|wor_1053|MIS LE|2024/07/31|Employee|Y|wr_1053|GRISMO
+MERGE|WorkRelationship|wor_1054|MIS LE|2025/09/01|Contingent Worker|Y|wr_1054|GRISMO
+MERGE|WorkRelationship|wor_1055|MIS LE|2020/10/01|Employee|Y|wr_1055|GRISMO
+MERGE|WorkRelationship|wor_1056|MIS LE|2021/11/02|Contingent Worker|Y|wr_1056|GRISMO
+MERGE|WorkRelationship|wor_1057|MIS LE|2022/12/03|Employee|Y|wr_1057|GRISMO
+MERGE|WorkRelationship|wor_1058|MIS LE|2023/01/18|Contingent Worker|Y|wr_1058|GRISMO
+MERGE|WorkRelationship|wor_1059|MIS LE|2024/02/18|Employee|Y|wr_1059|GRISMO
+MERGE|WorkRelationship|wor_1060|MIS LE|2025/03/21|Contingent Worker|Y|wr_1060|GRISMO
+MERGE|WorkRelationship|wor_1061|MIS LE|2020/04/20|Employee|Y|wr_1061|GRISMO
+MERGE|WorkRelationship|wor_1062|MIS LE|2021/05/22|Contingent Worker|Y|wr_1062|GRISMO
+MERGE|WorkRelationship|wor_1063|MIS LE|2022/06/22|Employee|Y|wr_1063|GRISMO
+MERGE|WorkRelationship|wor_1064|MIS LE|2023/07/23|Contingent Worker|Y|wr_1064|GRISMO
+MERGE|WorkRelationship|wor_1065|MIS LE|2024/08/22|Employee|Y|wr_1065|GRISMO
+MERGE|WorkRelationship|wor_1066|MIS LE|2025/09/23|Contingent Worker|Y|wr_1066|GRISMO
+MERGE|WorkRelationship|wor_1067|MIS LE|2020/10/23|Employee|Y|wr_1067|GRISMO
+MERGE|WorkRelationship|wor_1068|MIS LE|2021/11/24|Contingent Worker|Y|wr_1068|GRISMO
+MERGE|WorkRelationship|wor_1069|MIS LE|2022/01/09|Employee|Y|wr_1069|GRISMO
+MERGE|WorkRelationship|wor_1070|MIS LE|2023/02/09|Contingent Worker|Y|wr_1070|GRISMO
+MERGE|WorkRelationship|wor_1071|MIS LE|2024/03/11|Employee|Y|wr_1071|GRISMO
+MERGE|WorkRelationship|wor_1072|MIS LE|2025/04/12|Contingent Worker|Y|wr_1072|GRISMO
+MERGE|WorkRelationship|wor_1073|MIS LE|2020/05/12|Employee|Y|wr_1073|GRISMO
+MERGE|WorkRelationship|wor_1074|MIS LE|2021/06/13|Contingent Worker|Y|wr_1074|GRISMO
+MERGE|WorkRelationship|wor_1075|MIS LE|2022/07/14|Employee|Y|wr_1075|GRISMO
+MERGE|WorkRelationship|wor_1076|MIS LE|2023/08/14|Contingent Worker|Y|wr_1076|GRISMO
+MERGE|WorkRelationship|wor_1077|MIS LE|2024/09/13|Employee|Y|wr_1077|GRISMO
+MERGE|WorkRelationship|wor_1078|MIS LE|2025/10/15|Contingent Worker|Y|wr_1078|GRISMO
+MERGE|WorkRelationship|wor_1079|MIS LE|2020/11/14|Employee|Y|wr_1079|GRISMO
+MERGE|WorkRelationship|wor_1080|MIS LE|2021/12/16|Contingent Worker|Y|wr_1080|GRISMO
+MERGE|WorkRelationship|wor_1081|MIS LE|2022/01/31|Employee|Y|wr_1081|GRISMO
+MERGE|WorkRelationship|wor_1082|MIS LE|2023/03/03|Contingent Worker|Y|wr_1082|GRISMO
+MERGE|WorkRelationship|wor_1083|MIS LE|2024/04/02|Employee|Y|wr_1083|GRISMO
+MERGE|WorkRelationship|wor_1084|MIS LE|2025/05/04|Contingent Worker|Y|wr_1084|GRISMO
+MERGE|WorkRelationship|wor_1085|MIS LE|2020/06/03|Employee|Y|wr_1085|GRISMO
+MERGE|WorkRelationship|wor_1086|MIS LE|2021/07/05|Contingent Worker|Y|wr_1086|GRISMO
+MERGE|WorkRelationship|wor_1087|MIS LE|2022/08/05|Employee|Y|wr_1087|GRISMO
+MERGE|WorkRelationship|wor_1088|MIS LE|2023/09/05|Contingent Worker|Y|wr_1088|GRISMO
+MERGE|WorkRelationship|wor_1089|MIS LE|2024/10/05|Employee|Y|wr_1089|GRISMO
+MERGE|WorkRelationship|wor_1090|MIS LE|2025/11/06|Contingent Worker|Y|wr_1090|GRISMO
+MERGE|WorkRelationship|wor_1091|MIS LE|2020/12/06|Employee|Y|wr_1091|GRISMO
+MERGE|WorkRelationship|wor_1092|MIS LE|2021/01/22|Contingent Worker|Y|wr_1092|GRISMO
+MERGE|WorkRelationship|wor_1093|MIS LE|2022/02/22|Employee|Y|wr_1093|GRISMO
+MERGE|WorkRelationship|wor_1094|MIS LE|2023/03/25|Contingent Worker|Y|wr_1094|GRISMO
+MERGE|WorkRelationship|wor_1095|MIS LE|2024/04/24|Employee|Y|wr_1095|GRISMO
+MERGE|WorkRelationship|wor_1096|MIS LE|2025/05/26|Contingent Worker|Y|wr_1096|GRISMO
+MERGE|WorkRelationship|wor_1097|MIS LE|2020/06/25|Employee|Y|wr_1097|GRISMO
+MERGE|WorkRelationship|wor_1098|MIS LE|2021/07/27|Contingent Worker|Y|wr_1098|GRISMO
+MERGE|WorkRelationship|wor_1099|MIS LE|2022/08/27|Employee|Y|wr_1099|GRISMO
+MERGE|WorkRelationship|wor_1100|MIS LE|2023/09/27|Contingent Worker|Y|wr_1100|GRISMO
+METADATA|WorkTerms|PeriodOfServiceId(SourceSystemId)|PersonId(SourceSystemId)|ActionCode|EffectiveStartDate|EffectiveSequence|EffectiveLatestChange|AssignmentNumber|PrimaryWorkTermsFlag|AssignmentType|SourceSystemId|SourceSystemOwner
+MERGE|WorkTerms|wr_1001|wor_1001||2020/01/01|1|Y|ET1001|Y|ET|wt_1001|GRISMO
+MERGE|WorkTerms|wr_1002|wor_1002||2021/02/01|1|Y|ET1002|Y|ET|wt_1002|GRISMO
+MERGE|WorkTerms|wr_1003|wor_1003||2022/03/04|1|Y|ET1003|Y|ET|wt_1003|GRISMO
+MERGE|WorkTerms|wr_1004|wor_1004||2023/04/04|1|Y|ET1004|Y|ET|wt_1004|GRISMO
+MERGE|WorkTerms|wr_1005|wor_1005||2024/05/04|1|Y|ET1005|Y|ET|wt_1005|GRISMO
+MERGE|WorkTerms|wr_1006|wor_1006||2025/06/05|1|Y|ET1006|Y|ET|wt_1006|GRISMO
+MERGE|WorkTerms|wr_1007|wor_1007||2020/07/05|1|Y|ET1007|Y|ET|wt_1007|GRISMO
+MERGE|WorkTerms|wr_1008|wor_1008||2021/08/06|1|Y|ET1008|Y|ET|wt_1008|GRISMO
+MERGE|WorkTerms|wr_1009|wor_1009||2022/09/06|1|Y|ET1009|Y|ET|wt_1009|GRISMO
+MERGE|WorkTerms|wr_1010|wor_1010||2023/10/07|1|Y|ET1010|Y|ET|wt_1010|GRISMO
+MERGE|WorkTerms|wr_1011|wor_1011||2024/11/06|1|Y|ET1011|Y|ET|wt_1011|GRISMO
+MERGE|WorkTerms|wr_1012|wor_1012||2025/12/08|1|Y|ET1012|Y|ET|wt_1012|GRISMO
+MERGE|WorkTerms|wr_1013|wor_1013||2020/01/23|1|Y|ET1013|Y|ET|wt_1013|GRISMO
+MERGE|WorkTerms|wr_1014|wor_1014||2021/02/23|1|Y|ET1014|Y|ET|wt_1014|GRISMO
+MERGE|WorkTerms|wr_1015|wor_1015||2022/03/26|1|Y|ET1015|Y|ET|wt_1015|GRISMO
+MERGE|WorkTerms|wr_1016|wor_1016||2023/04/26|1|Y|ET1016|Y|ET|wt_1016|GRISMO
+MERGE|WorkTerms|wr_1017|wor_1017||2024/05/26|1|Y|ET1017|Y|ET|wt_1017|GRISMO
+MERGE|WorkTerms|wr_1018|wor_1018||2025/06/27|1|Y|ET1018|Y|ET|wt_1018|GRISMO
+MERGE|WorkTerms|wr_1019|wor_1019||2020/07/27|1|Y|ET1019|Y|ET|wt_1019|GRISMO
+MERGE|WorkTerms|wr_1020|wor_1020||2021/08/28|1|Y|ET1020|Y|ET|wt_1020|GRISMO
+MERGE|WorkTerms|wr_1021|wor_1021||2022/09/28|1|Y|ET1021|Y|ET|wt_1021|GRISMO
+MERGE|WorkTerms|wr_1022|wor_1022||2023/10/29|1|Y|ET1022|Y|ET|wt_1022|GRISMO
+MERGE|WorkTerms|wr_1023|wor_1023||2024/11/28|1|Y|ET1023|Y|ET|wt_1023|GRISMO
+MERGE|WorkTerms|wr_1024|wor_1024||2025/01/14|1|Y|ET1024|Y|ET|wt_1024|GRISMO
+MERGE|WorkTerms|wr_1025|wor_1025||2020/02/14|1|Y|ET1025|Y|ET|wt_1025|GRISMO
+MERGE|WorkTerms|wr_1026|wor_1026||2021/03/17|1|Y|ET1026|Y|ET|wt_1026|GRISMO
+MERGE|WorkTerms|wr_1027|wor_1027||2022/04/17|1|Y|ET1027|Y|ET|wt_1027|GRISMO
+MERGE|WorkTerms|wr_1028|wor_1028||2023/05/18|1|Y|ET1028|Y|ET|wt_1028|GRISMO
+MERGE|WorkTerms|wr_1029|wor_1029||2024/06/17|1|Y|ET1029|Y|ET|wt_1029|GRISMO
+MERGE|WorkTerms|wr_1030|wor_1030||2025/07/19|1|Y|ET1030|Y|ET|wt_1030|GRISMO
+MERGE|WorkTerms|wr_1031|wor_1031||2020/08/18|1|Y|ET1031|Y|ET|wt_1031|GRISMO
+MERGE|WorkTerms|wr_1032|wor_1032||2021/09/19|1|Y|ET1032|Y|ET|wt_1032|GRISMO
+MERGE|WorkTerms|wr_1033|wor_1033||2022/10/20|1|Y|ET1033|Y|ET|wt_1033|GRISMO
+MERGE|WorkTerms|wr_1034|wor_1034||2023/11/20|1|Y|ET1034|Y|ET|wt_1034|GRISMO
+MERGE|WorkTerms|wr_1035|wor_1035||2024/01/05|1|Y|ET1035|Y|ET|wt_1035|GRISMO
+MERGE|WorkTerms|wr_1036|wor_1036||2025/02/05|1|Y|ET1036|Y|ET|wt_1036|GRISMO
+MERGE|WorkTerms|wr_1037|wor_1037||2020/03/07|1|Y|ET1037|Y|ET|wt_1037|GRISMO
+MERGE|WorkTerms|wr_1038|wor_1038||2021/04/08|1|Y|ET1038|Y|ET|wt_1038|GRISMO
+MERGE|WorkTerms|wr_1039|wor_1039||2022/05/09|1|Y|ET1039|Y|ET|wt_1039|GRISMO
+MERGE|WorkTerms|wr_1040|wor_1040||2023/06/09|1|Y|ET1040|Y|ET|wt_1040|GRISMO
+MERGE|WorkTerms|wr_1041|wor_1041||2024/07/09|1|Y|ET1041|Y|ET|wt_1041|GRISMO
+MERGE|WorkTerms|wr_1042|wor_1042||2025/08/10|1|Y|ET1042|Y|ET|wt_1042|GRISMO
+MERGE|WorkTerms|wr_1043|wor_1043||2020/09/09|1|Y|ET1043|Y|ET|wt_1043|GRISMO
+MERGE|WorkTerms|wr_1044|wor_1044||2021/10/11|1|Y|ET1044|Y|ET|wt_1044|GRISMO
+MERGE|WorkTerms|wr_1045|wor_1045||2022/11/11|1|Y|ET1045|Y|ET|wt_1045|GRISMO
+MERGE|WorkTerms|wr_1046|wor_1046||2023/12/12|1|Y|ET1046|Y|ET|wt_1046|GRISMO
+MERGE|WorkTerms|wr_1047|wor_1047||2024/01/27|1|Y|ET1047|Y|ET|wt_1047|GRISMO
+MERGE|WorkTerms|wr_1048|wor_1048||2025/02/27|1|Y|ET1048|Y|ET|wt_1048|GRISMO
+MERGE|WorkTerms|wr_1049|wor_1049||2020/03/29|1|Y|ET1049|Y|ET|wt_1049|GRISMO
+MERGE|WorkTerms|wr_1050|wor_1050||2021/04/30|1|Y|ET1050|Y|ET|wt_1050|GRISMO
+MERGE|WorkTerms|wr_1051|wor_1051||2022/05/31|1|Y|ET1051|Y|ET|wt_1051|GRISMO
+MERGE|WorkTerms|wr_1052|wor_1052||2023/07/01|1|Y|ET1052|Y|ET|wt_1052|GRISMO
+MERGE|WorkTerms|wr_1053|wor_1053||2024/07/31|1|Y|ET1053|Y|ET|wt_1053|GRISMO
+MERGE|WorkTerms|wr_1054|wor_1054||2025/09/01|1|Y|ET1054|Y|ET|wt_1054|GRISMO
+MERGE|WorkTerms|wr_1055|wor_1055||2020/10/01|1|Y|ET1055|Y|ET|wt_1055|GRISMO
+MERGE|WorkTerms|wr_1056|wor_1056||2021/11/02|1|Y|ET1056|Y|ET|wt_1056|GRISMO
+MERGE|WorkTerms|wr_1057|wor_1057||2022/12/03|1|Y|ET1057|Y|ET|wt_1057|GRISMO
+MERGE|WorkTerms|wr_1058|wor_1058||2023/01/18|1|Y|ET1058|Y|ET|wt_1058|GRISMO
+MERGE|WorkTerms|wr_1059|wor_1059||2024/02/18|1|Y|ET1059|Y|ET|wt_1059|GRISMO
+MERGE|WorkTerms|wr_1060|wor_1060||2025/03/21|1|Y|ET1060|Y|ET|wt_1060|GRISMO
+MERGE|WorkTerms|wr_1061|wor_1061||2020/04/20|1|Y|ET1061|Y|ET|wt_1061|GRISMO
+MERGE|WorkTerms|wr_1062|wor_1062||2021/05/22|1|Y|ET1062|Y|ET|wt_1062|GRISMO
+MERGE|WorkTerms|wr_1063|wor_1063||2022/06/22|1|Y|ET1063|Y|ET|wt_1063|GRISMO
+MERGE|WorkTerms|wr_1064|wor_1064||2023/07/23|1|Y|ET1064|Y|ET|wt_1064|GRISMO
+MERGE|WorkTerms|wr_1065|wor_1065||2024/08/22|1|Y|ET1065|Y|ET|wt_1065|GRISMO
+MERGE|WorkTerms|wr_1066|wor_1066||2025/09/23|1|Y|ET1066|Y|ET|wt_1066|GRISMO
+MERGE|WorkTerms|wr_1067|wor_1067||2020/10/23|1|Y|ET1067|Y|ET|wt_1067|GRISMO
+MERGE|WorkTerms|wr_1068|wor_1068||2021/11/24|1|Y|ET1068|Y|ET|wt_1068|GRISMO
+MERGE|WorkTerms|wr_1069|wor_1069||2022/01/09|1|Y|ET1069|Y|ET|wt_1069|GRISMO
+MERGE|WorkTerms|wr_1070|wor_1070||2023/02/09|1|Y|ET1070|Y|ET|wt_1070|GRISMO
+MERGE|WorkTerms|wr_1071|wor_1071||2024/03/11|1|Y|ET1071|Y|ET|wt_1071|GRISMO
+MERGE|WorkTerms|wr_1072|wor_1072||2025/04/12|1|Y|ET1072|Y|ET|wt_1072|GRISMO
+MERGE|WorkTerms|wr_1073|wor_1073||2020/05/12|1|Y|ET1073|Y|ET|wt_1073|GRISMO
+MERGE|WorkTerms|wr_1074|wor_1074||2021/06/13|1|Y|ET1074|Y|ET|wt_1074|GRISMO
+MERGE|WorkTerms|wr_1075|wor_1075||2022/07/14|1|Y|ET1075|Y|ET|wt_1075|GRISMO
+MERGE|WorkTerms|wr_1076|wor_1076||2023/08/14|1|Y|ET1076|Y|ET|wt_1076|GRISMO
+MERGE|WorkTerms|wr_1077|wor_1077||2024/09/13|1|Y|ET1077|Y|ET|wt_1077|GRISMO
+MERGE|WorkTerms|wr_1078|wor_1078||2025/10/15|1|Y|ET1078|Y|ET|wt_1078|GRISMO
+MERGE|WorkTerms|wr_1079|wor_1079||2020/11/14|1|Y|ET1079|Y|ET|wt_1079|GRISMO
+MERGE|WorkTerms|wr_1080|wor_1080||2021/12/16|1|Y|ET1080|Y|ET|wt_1080|GRISMO
+MERGE|WorkTerms|wr_1081|wor_1081||2022/01/31|1|Y|ET1081|Y|ET|wt_1081|GRISMO
+MERGE|WorkTerms|wr_1082|wor_1082||2023/03/03|1|Y|ET1082|Y|ET|wt_1082|GRISMO
+MERGE|WorkTerms|wr_1083|wor_1083||2024/04/02|1|Y|ET1083|Y|ET|wt_1083|GRISMO
+MERGE|WorkTerms|wr_1084|wor_1084||2025/05/04|1|Y|ET1084|Y|ET|wt_1084|GRISMO
+MERGE|WorkTerms|wr_1085|wor_1085||2020/06/03|1|Y|ET1085|Y|ET|wt_1085|GRISMO
+MERGE|WorkTerms|wr_1086|wor_1086||2021/07/05|1|Y|ET1086|Y|ET|wt_1086|GRISMO
+MERGE|WorkTerms|wr_1087|wor_1087||2022/08/05|1|Y|ET1087|Y|ET|wt_1087|GRISMO
+MERGE|WorkTerms|wr_1088|wor_1088||2023/09/05|1|Y|ET1088|Y|ET|wt_1088|GRISMO
+MERGE|WorkTerms|wr_1089|wor_1089||2024/10/05|1|Y|ET1089|Y|ET|wt_1089|GRISMO
+MERGE|WorkTerms|wr_1090|wor_1090||2025/11/06|1|Y|ET1090|Y|ET|wt_1090|GRISMO
+MERGE|WorkTerms|wr_1091|wor_1091||2020/12/06|1|Y|ET1091|Y|ET|wt_1091|GRISMO
+MERGE|WorkTerms|wr_1092|wor_1092||2021/01/22|1|Y|ET1092|Y|ET|wt_1092|GRISMO
+MERGE|WorkTerms|wr_1093|wor_1093||2022/02/22|1|Y|ET1093|Y|ET|wt_1093|GRISMO
+MERGE|WorkTerms|wr_1094|wor_1094||2023/03/25|1|Y|ET1094|Y|ET|wt_1094|GRISMO
+MERGE|WorkTerms|wr_1095|wor_1095||2024/04/24|1|Y|ET1095|Y|ET|wt_1095|GRISMO
+MERGE|WorkTerms|wr_1096|wor_1096||2025/05/26|1|Y|ET1096|Y|ET|wt_1096|GRISMO
+MERGE|WorkTerms|wr_1097|wor_1097||2020/06/25|1|Y|ET1097|Y|ET|wt_1097|GRISMO
+MERGE|WorkTerms|wr_1098|wor_1098||2021/07/27|1|Y|ET1098|Y|ET|wt_1098|GRISMO
+MERGE|WorkTerms|wr_1099|wor_1099||2022/08/27|1|Y|ET1099|Y|ET|wt_1099|GRISMO
+MERGE|WorkTerms|wr_1100|wor_1100||2023/09/27|1|Y|ET1100|Y|ET|wt_1100|GRISMO

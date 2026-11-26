@@ -1,0 +1,5 @@
+METADATA|LegislativeDataGroupTranslation|Language|LegislativeDataGroupId|Name|SourceSystemOwner|SourceSystemId|BaseName
+MERGE|LegislativeDataGroupTranslation|AR||مجموعة البيانات التشريعية IN|GRISMO|LDG_IN_01|IN Legislative Data Group
+MERGE|LegislativeDataGroupTranslation|AR||مجموعة البيانات التشريعية SA|GRISMO|LDG_SA_01|SA Legislative Data Group
+MERGE|LegislativeDataGroupTranslation|AR||مجموعة البيانات التشريعية AE|GRISMO|LDG_AE_01|AE Legislative Data Group
+MERGE|LegislativeDataGroupTranslation|AR||مجموعة البيانات التشريعية QA|GRISMO|LDG_QA_01|QA Legislative Data Group

@@ -1,0 +1,31 @@
+METADATA|ActionReasonsTranslation|ActionReasonId|ActionReasonCode|ActionReason|Language|SourceSystemId|SourceSystemOwner
+MERGE|ActionReasonsTranslation||DIFF_PROJECT_CHANGE|Project Change|US|GRISMO_AR_101|GRISMO
+MERGE|ActionReasonsTranslation||DIFF_PROJECT_CHANGE|تغيير المشروع|AR|GRISMO_AR_101|GRISMO
+MERGE|ActionReasonsTranslation||DIFF_PROJECT_CHANGE|Changement de projet|FR|GRISMO_AR_101|GRISMO
+MERGE|ActionReasonsTranslation||PERFORMANCE_INCREASE|Performance Increase|US|GRISMO_AR_102|GRISMO
+MERGE|ActionReasonsTranslation||PERFORMANCE_INCREASE|زيادة الأداء|AR|GRISMO_AR_102|GRISMO
+MERGE|ActionReasonsTranslation||PERFORMANCE_INCREASE|Augmentation de performance|FR|GRISMO_AR_102|GRISMO
+MERGE|ActionReasonsTranslation||ANNUAL_REVIEW|Annual Review|US|GRISMO_AR_110|GRISMO
+MERGE|ActionReasonsTranslation||ANNUAL_REVIEW|المراجعة السنوية|AR|GRISMO_AR_110|GRISMO
+MERGE|ActionReasonsTranslation||ANNUAL_REVIEW|Évaluation annuelle|FR|GRISMO_AR_110|GRISMO
+MERGE|ActionReasonsTranslation||BUSINESS_REORG|Business Reorganization|US|GRISMO_AR_104|GRISMO
+MERGE|ActionReasonsTranslation||BUSINESS_REORG|إعادة هيكلة الأعمال|AR|GRISMO_AR_104|GRISMO
+MERGE|ActionReasonsTranslation||BUSINESS_REORG|Réorganisation de l'entreprise|FR|GRISMO_AR_104|GRISMO
+MERGE|ActionReasonsTranslation||EMPLOYEE_REQUEST|Employee Request|US|GRISMO_AR_103|GRISMO
+MERGE|ActionReasonsTranslation||EMPLOYEE_REQUEST|طلب الموظف|AR|GRISMO_AR_103|GRISMO
+MERGE|ActionReasonsTranslation||EMPLOYEE_REQUEST|Demande de l'employé|FR|GRISMO_AR_103|GRISMO
+MERGE|ActionReasonsTranslation||RELOCATION|Relocation|US|GRISMO_AR_107|GRISMO
+MERGE|ActionReasonsTranslation||RELOCATION|نقل الموقع|AR|GRISMO_AR_107|GRISMO
+MERGE|ActionReasonsTranslation||RELOCATION|Relocalisation|FR|GRISMO_AR_107|GRISMO
+MERGE|ActionReasonsTranslation||COST_OF_LIVING|Cost of Living Adjustment|US|GRISMO_AR_105|GRISMO
+MERGE|ActionReasonsTranslation||COST_OF_LIVING|تعديل غلاء المعيشة|AR|GRISMO_AR_105|GRISMO
+MERGE|ActionReasonsTranslation||COST_OF_LIVING|Ajustement du coût de la vie|FR|GRISMO_AR_105|GRISMO
+MERGE|ActionReasonsTranslation||PROMOTION_MERIT|Merit Promotion|US|GRISMO_AR_108|GRISMO
+MERGE|ActionReasonsTranslation||PROMOTION_MERIT|ترقية بناءً على الجدارة|AR|GRISMO_AR_108|GRISMO
+MERGE|ActionReasonsTranslation||PROMOTION_MERIT|Promotion au mérite|FR|GRISMO_AR_108|GRISMO
+MERGE|ActionReasonsTranslation||CONTRACT_END|Contract End|US|GRISMO_AR_106|GRISMO
+MERGE|ActionReasonsTranslation||CONTRACT_END|انتهاء العقد|AR|GRISMO_AR_106|GRISMO
+MERGE|ActionReasonsTranslation||CONTRACT_END|Fin de contrat|FR|GRISMO_AR_106|GRISMO
+MERGE|ActionReasonsTranslation||RESIGNATION_PERSONAL|Personal Reasons|US|GRISMO_AR_109|GRISMO
+MERGE|ActionReasonsTranslation||RESIGNATION_PERSONAL|أسباب شخصية|AR|GRISMO_AR_109|GRISMO
+MERGE|ActionReasonsTranslation||RESIGNATION_PERSONAL|Raisons personnelles|FR|GRISMO_AR_109|GRISMO

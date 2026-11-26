@@ -1,0 +1,12 @@
+METADATA|JobFamily|JobFamilyCode|JobFamilyName|EffectiveStartDate|EffectiveEndDate|ActiveStatus
+MERGE|JobFamily|CLOUD_FAMILY|Cloud Computing|2026/01/01|4712/12/31|A
+MERGE|JobFamily|PRODUCT_FAMILY|Product Management|2026/01/01|4712/12/31|A
+MERGE|JobFamily|DATA_FAMILY|Data Analytics|2026/01/01|4712/12/31|A
+MERGE|JobFamily|QA_FAMILY|Quality Assurance|2026/01/01|4712/12/31|A
+MERGE|JobFamily|CYBER_FAMILY|Cyber Security|2026/01/01|4712/12/31|A
+METADATA|JobSubFamilyAssociation|JobSubFamily|JobFamilyName|JobFamilyCode|EffectiveStartDate|EffectiveEndDate|ActiveStatus
+MERGE|JobSubFamilyAssociation|MIS_FAMILY|Cloud Computing|CLOUD_FAMILY|2026/01/01|4712/12/31|A
+MERGE|JobSubFamilyAssociation|MIS_FAMILY|Product Management|PRODUCT_FAMILY|2026/01/01|4712/12/31|A
+MERGE|JobSubFamilyAssociation|MIS_FAMILY|Data Analytics|DATA_FAMILY|2026/01/01|4712/12/31|A
+MERGE|JobSubFamilyAssociation|MIS_FAMILY|Quality Assurance|QA_FAMILY|2026/01/01|4712/12/31|A
+MERGE|JobSubFamilyAssociation|MIS_FAMILY|Cyber Security|CYBER_FAMILY|2026/01/01|4712/12/31|A

@@ -1,0 +1,28 @@
+METADATA|GradeRate|RateId|EffectiveStartDate|EffectiveEndDate|LegislativeDataGroupId|RateType|GradeRateName|CurrencyCode|RateFrequency|AnnualizationFactor|ActiveStatus|LegislativeDataGroup|ActionReasonCode|SourceSystemOwner|SourceSystemId|ProgressionRateFlag|GradeLadderId|GradeLadderName
+MERGE|GradeRate||2026/01/01|4712/12/31||Salary|MIS India Annual Salary Rate|INR|Annually|1|A|IN Legislative Data Group||GRISMO|RATE_001|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Bonus|MIS India Quarterly Bonus Rate|INR|Quarterly|4|A|IN Legislative Data Group||GRISMO|RATE_002|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Fixed paid|MIS India Biweekly Fixed Pay Rate|INR|Biweekly|26|A|IN Legislative Data Group||GRISMO|RATE_003|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Hourly paid|MIS India Hourly Wage Rate|INR|Hourly|2080|A|IN Legislative Data Group||GRISMO|RATE_004|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Salary|MIS Saudi Salary Rate|SAR|Monthly|12|A|SA Legislative Data Group||GRISMO|RATE_005|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Overtime|MIS Saudi Daily Overtime Rate|SAR|Daily|260|A|SA Legislative Data Group||GRISMO|RATE_006|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Commission paid|MIS Saudi Semimonthly Commission Rate|SAR|Semimonthly|24|A|SA Legislative Data Group||GRISMO|RATE_007|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Nightly hours|MIS Saudi Weekly Night Hours Rate|SAR|Weekly|52|A|SA Legislative Data Group||GRISMO|RATE_008|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Bonus|MIS UAE Semiannual Bonus Rate|AED|Semiannually|2|A|AE Legislative Data Group||GRISMO|RATE_009|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Fixed paid|MIS UAE Bimonthly Fixed Pay Rate|AED|Bimonthly|6|A|AE Legislative Data Group||GRISMO|RATE_010|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Salary|MIS UAE Lunar Month Salary Rate|AED|Lunar Month|13|A|AE Legislative Data Group||GRISMO|RATE_011|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Salary|MIS Qatar Payroll Period Salary Rate|QAR|Payroll period|12|A|QA Legislative Data Group||GRISMO|RATE_012|N||
+MERGE|GradeRate||2026/01/01|4712/12/31||Fixed paid|MIS Qatar Workday Fixed Pay Rate|QAR|Workday rate frequency|260|A|QA Legislative Data Group||GRISMO|RATE_013|N||
+METADATA|GradeRateValue|RateValueId|EffectiveStartDate|EffectiveEndDate|LegislativeDataGroupId|RateId(SourceSystemId)|MinimumAmount|MaximumAmount|MidValueAmount|ValueAmount|GradeRateName|SetCode|GradeCode|LegislativeDataGroup|SourceSystemOwner|SourceSystemId
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_001|2400000|4200000|3300000||MIS India Annual Salary Rate|COMMON|E16|IN Legislative Data Group|GRISMO|RATE_VAL_001
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_002|50000|150000|100000||MIS India Quarterly Bonus Rate|COMMON|E14|IN Legislative Data Group|GRISMO|RATE_VAL_002
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_003|25000|45000|35000||MIS India Biweekly Fixed Pay Rate|COMMON|E12|IN Legislative Data Group|GRISMO|RATE_VAL_003
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_004|150|300|225||MIS India Hourly Wage Rate|COMMON|E10|IN Legislative Data Group|GRISMO|RATE_VAL_004
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_005|3000|5000|4000||MIS Saudi Salary Rate|COMMON|E14|SA Legislative Data Group|GRISMO|RATE_VAL_005
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_006|100|250|175||MIS Saudi Daily Overtime Rate|COMMON|E12|SA Legislative Data Group|GRISMO|RATE_VAL_006
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_007|500|2000|1250||MIS Saudi Semimonthly Commission Rate|COMMON|E10|SA Legislative Data Group|GRISMO|RATE_VAL_007
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_008|200|500|350||MIS Saudi Weekly Night Hours Rate|COMMON|E10|SA Legislative Data Group|GRISMO|RATE_VAL_008
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_009|15000|40000|27500||MIS UAE Semiannual Bonus Rate|COMMON|E14|AE Legislative Data Group|GRISMO|RATE_VAL_009
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_010|10000|20000|15000||MIS UAE Bimonthly Fixed Pay Rate|COMMON|E12|AE Legislative Data Group|GRISMO|RATE_VAL_010
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_011|3500|6000|4750||MIS UAE Lunar Month Salary Rate|COMMON|E10|AE Legislative Data Group|GRISMO|RATE_VAL_011
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_012|9000|15000|12000||MIS Qatar Payroll Period Salary Rate|COMMON|E14|QA Legislative Data Group|GRISMO|RATE_VAL_012
+MERGE|GradeRateValue||2026/01/01|4712/12/31||RATE_013|400|800|600||MIS Qatar Workday Fixed Pay Rate|COMMON|E12|QA Legislative Data Group|GRISMO|RATE_VAL_013

@@ -1,0 +1,5 @@
+METADATA|LegislativeDataGroup|Name|CostAllocationIdFlexNumber|LegislationCode|LegislativeDataGroupId|DefaultCurrencyCode|DefaultCurrency|StructureInstanceName|Territory|SourceSystemOwner|SourceSystemId
+MERGE|LegislativeDataGroup|IN Legislative Data Group||IN||INR||MIS Costing||GRISMO|LDG_IN_01
+MERGE|LegislativeDataGroup|SA Legislative Data Group||SA||SAR||MIS Costing||GRISMO|LDG_SA_01
+MERGE|LegislativeDataGroup|AE Legislative Data Group||AE||AED||MIS Costing||GRISMO|LDG_AE_01
+MERGE|LegislativeDataGroup|QA Legislative Data Group||QA||QAR||MIS Costing||GRISMO|LDG_QA_01

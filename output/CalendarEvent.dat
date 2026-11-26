@@ -1,0 +1,48 @@
+METADATA|CalendarEvent|Name|Description|Category|CoverageType|ShortCode|StartDateTime|EndDateTime|TreeCode|TreeStructureCode|TreeVersionName|HalfDayForElapsed
+MERGE|CalendarEvent|Republic Day|Republic Day - sample calendar entry|PH|G|IN_REP2026|2026/01/26 00:00:00|2026/01/26 23:59:59||||N
+MERGE|CalendarEvent|Holi|Holi - sample calendar entry; confirm regional observance|PH|G|IN_HOLI2026|2026/03/04 00:00:00|2026/03/04 23:59:59||||N
+MERGE|CalendarEvent|Good Friday|Good Friday - sample calendar entry|PH|G|IN_GF2026|2026/04/03 00:00:00|2026/04/03 23:59:59||||N
+MERGE|CalendarEvent|Independence Day|Independence Day - sample calendar entry|PH|G|IN_IND2026|2026/08/15 00:00:00|2026/08/15 23:59:59||||N
+MERGE|CalendarEvent|Gandhi Jayanti|Gandhi Jayanti - sample calendar entry|PH|G|IN_GJ2026|2026/10/02 00:00:00|2026/10/02 23:59:59||||N
+MERGE|CalendarEvent|Diwali|Diwali - sample calendar entry; confirm regional/company holiday|PH|G|IN_DIWALI2026|2026/11/08 00:00:00|2026/11/08 23:59:59||||N
+MERGE|CalendarEvent|Christmas Day|Christmas Day - sample calendar entry|PH|G|IN_XMAS2026|2026/12/25 00:00:00|2026/12/25 23:59:59||||N
+MERGE|CalendarEvent|New Year's Day 2026|Public Holiday for New Year - sample entry from supplied HDL|PH|G|NYD2026|2026/01/01 00:00:00|2026/01/01 23:59:59|ORA_HRX_SA_GEO_TREE|PER_GEO_TREE_STRUCTURE|Geography Tree Version for Saudi Arabia|N
+MERGE|CalendarEvent|Saudi Founding Day|Saudi Founding Day - sample calendar entry|PH|G|SA_FOUND2026|2026/02/22 00:00:00|2026/02/22 23:59:59|ORA_HRX_SA_GEO_TREE|PER_GEO_TREE_STRUCTURE|Geography Tree Version for Saudi Arabia|N
+MERGE|CalendarEvent|Eid al-Fitr|Eid al-Fitr - provisional sample date; confirm official announcement|PH|G|SA_EIDF2026|2026/03/20 00:00:00|2026/03/20 23:59:59|ORA_HRX_SA_GEO_TREE|PER_GEO_TREE_STRUCTURE|Geography Tree Version for Saudi Arabia|N
+MERGE|CalendarEvent|Eid al-Adha|Eid al-Adha - provisional sample date; confirm official announcement|PH|G|SA_EIDH2026|2026/05/27 00:00:00|2026/05/27 23:59:59|ORA_HRX_SA_GEO_TREE|PER_GEO_TREE_STRUCTURE|Geography Tree Version for Saudi Arabia|N
+MERGE|CalendarEvent|Saudi National Day|Saudi National Day - sample calendar entry|PH|G|SA_NAT2026|2026/09/23 00:00:00|2026/09/23 23:59:59|ORA_HRX_SA_GEO_TREE|PER_GEO_TREE_STRUCTURE|Geography Tree Version for Saudi Arabia|N
+MERGE|CalendarEvent|Christmas Day|Optional company observance only; not represented here as a Saudi public holiday|OBS|G|SA_XMAS2026|2026/12/25 00:00:00|2026/12/25 23:59:59|ORA_HRX_SA_GEO_TREE|PER_GEO_TREE_STRUCTURE|Geography Tree Version for Saudi Arabia|N
+MERGE|CalendarEvent|New Year's Day|New Year's Day - sample calendar entry|PH|G|AE_NYD2026|2026/01/01 00:00:00|2026/01/01 23:59:59||||N
+MERGE|CalendarEvent|Eid al-Fitr|Eid al-Fitr - provisional sample date; confirm official announcement|PH|G|AE_EIDF2026|2026/03/20 00:00:00|2026/03/20 23:59:59||||N
+MERGE|CalendarEvent|Eid al-Adha|Eid al-Adha - provisional sample date; confirm official announcement|PH|G|AE_EIDH2026|2026/05/27 00:00:00|2026/05/27 23:59:59||||N
+MERGE|CalendarEvent|UAE National Day / Eid Al Etihad|UAE National Day - sample calendar entry|PH|G|AE_NAT2026|2026/12/02 00:00:00|2026/12/02 23:59:59||||N
+MERGE|CalendarEvent|Christmas Day|Optional company observance; confirm company calendar|OBS|G|AE_XMAS2026|2026/12/25 00:00:00|2026/12/25 23:59:59||||N
+MERGE|CalendarEvent|National Sports Day|Qatar National Sports Day - sample calendar entry|PH|G|QA_SPORT2026|2026/02/10 00:00:00|2026/02/10 23:59:59||||N
+MERGE|CalendarEvent|Eid al-Fitr|Eid al-Fitr - provisional sample date; confirm official announcement|PH|G|QA_EIDF2026|2026/03/20 00:00:00|2026/03/20 23:59:59||||N
+MERGE|CalendarEvent|Eid al-Adha|Eid al-Adha - provisional sample date; confirm official announcement|PH|G|QA_EIDH2026|2026/05/27 00:00:00|2026/05/27 23:59:59||||N
+MERGE|CalendarEvent|Qatar National Day|Qatar National Day - sample calendar entry|PH|G|QA_NAT2026|2026/12/18 00:00:00|2026/12/18 23:59:59||||N
+MERGE|CalendarEvent|Christmas Day|Optional company observance; confirm company calendar|OBS|G|QA_XMAS2026|2026/12/25 00:00:00|2026/12/25 23:59:59||||N
+METADATA|CalendarEventCoverage|ShortCode|CoverageScope|TerritoryCode|TreeStructureCode|TreeCode|TreeVersionName
+MERGE|CalendarEventCoverage|IN_REP2026|I|IN|||
+MERGE|CalendarEventCoverage|IN_HOLI2026|I|IN|||
+MERGE|CalendarEventCoverage|IN_GF2026|I|IN|||
+MERGE|CalendarEventCoverage|IN_IND2026|I|IN|||
+MERGE|CalendarEventCoverage|IN_GJ2026|I|IN|||
+MERGE|CalendarEventCoverage|IN_DIWALI2026|I|IN|||
+MERGE|CalendarEventCoverage|IN_XMAS2026|I|IN|||
+MERGE|CalendarEventCoverage|NYD2026|I|SA|PER_GEO_TREE_STRUCTURE|ORA_HRX_SA_GEO_TREE|Geography Tree Version for Saudi Arabia
+MERGE|CalendarEventCoverage|SA_FOUND2026|I|SA|PER_GEO_TREE_STRUCTURE|ORA_HRX_SA_GEO_TREE|Geography Tree Version for Saudi Arabia
+MERGE|CalendarEventCoverage|SA_EIDF2026|I|SA|PER_GEO_TREE_STRUCTURE|ORA_HRX_SA_GEO_TREE|Geography Tree Version for Saudi Arabia
+MERGE|CalendarEventCoverage|SA_EIDH2026|I|SA|PER_GEO_TREE_STRUCTURE|ORA_HRX_SA_GEO_TREE|Geography Tree Version for Saudi Arabia
+MERGE|CalendarEventCoverage|SA_NAT2026|I|SA|PER_GEO_TREE_STRUCTURE|ORA_HRX_SA_GEO_TREE|Geography Tree Version for Saudi Arabia
+MERGE|CalendarEventCoverage|SA_XMAS2026|I|SA|PER_GEO_TREE_STRUCTURE|ORA_HRX_SA_GEO_TREE|Geography Tree Version for Saudi Arabia
+MERGE|CalendarEventCoverage|AE_NYD2026|I|AE|||
+MERGE|CalendarEventCoverage|AE_EIDF2026|I|AE|||
+MERGE|CalendarEventCoverage|AE_EIDH2026|I|AE|||
+MERGE|CalendarEventCoverage|AE_NAT2026|I|AE|||
+MERGE|CalendarEventCoverage|AE_XMAS2026|I|AE|||
+MERGE|CalendarEventCoverage|QA_SPORT2026|I|QA|||
+MERGE|CalendarEventCoverage|QA_EIDF2026|I|QA|||
+MERGE|CalendarEventCoverage|QA_EIDH2026|I|QA|||
+MERGE|CalendarEventCoverage|QA_NAT2026|I|QA|||
+MERGE|CalendarEventCoverage|QA_XMAS2026|I|QA|||

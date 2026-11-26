@@ -1,0 +1,11 @@
+METADATA|Actions|FLEX:PER_ACT_LEG_DDF|ActionId|ActionCode|ActionName|Description|ActionTypeId|ActionTypeCode|StartDate|EndDate|GUID|SourceSystemId|SourceSystemOwner
+MERGE|Actions|||SALARY_REVISION|Employee Salary Revision|Revision of employee salary||EMPL_CHANGE|2026/11/16|4712/12/31||ACT_SALARY_REVISION_001|GRISMO
+MERGE|Actions|||DEPARTMENT_CHANGE|Employee Department Change|Change of employee department||EMPL_TRANSFER|2026/11/16|4712/12/31||ACT_DEPARTMENT_CHANGE_001|GRISMO
+MERGE|Actions|||WORK_LOCATION_CHANGE|Employee Work Location Change|Change of employee work location||EMPL_CHG_LOCATION|2026/11/16|4712/12/31||ACT_WORK_LOCATION_CHANGE_001|GRISMO
+MERGE|Actions|||JOB_CHANGE|Employee Job Change|Change of employee job||ASG_CHANGE|2026/11/16|4712/12/31||ACT_JOB_CHANGE_001|GRISMO
+MERGE|Actions|||GRADE_CHANGE|Employee Grade Change|Change of employee grade||ASG_CHANGE|2026/11/16|4712/12/31||ACT_GRADE_CHANGE_001|GRISMO
+MERGE|Actions|||POSITION_CHANGE|Employee Position Change|Change of employee position||ASG_CHANGE|2026/11/16|4712/12/31||ACT_POSITION_CHANGE_001|GRISMO
+MERGE|Actions|||MANAGER_CHANGE|Employee Manager Change|Change of employee line manager||MANAGER_CHANGE|2026/11/16|4712/12/31||ACT_MANAGER_CHANGE_001|GRISMO
+MERGE|Actions|||PROMOTION|Employee Promotion|Promotion of employee to a higher role||ASG_CHANGE|2026/11/16|4712/12/31||ACT_PROMOTION_001|GRISMO
+MERGE|Actions|||NEW_HIRE|Employee New Hire|Hiring of a new employee||HIRE|2026/11/16|4712/12/31||ACT_NEW_HIRE_001|GRISMO
+MERGE|Actions|||RESIGNATION|Employee Resignation|Voluntary termination by the employee||TERMINATION|2026/11/16|4712/12/31||ACT_RESIGNATION_001|GRISMO

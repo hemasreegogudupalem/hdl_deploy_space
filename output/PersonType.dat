@@ -1,0 +1,51 @@
+METADATA|PersonType|PersonTypeId|SystemPersonType|UserPersonType|ActiveFlag|DefaultFlag|SourceSystemOwner|SourceSystemId
+MERGE|PersonType||APL|Applicant|Y|Y|GRISMO|NEW_APL_001
+MERGE|PersonType||BENNONWRKR|Benefit Nonworker|Y|Y|GRISMO|NEW_BENNONWRKR_001
+MERGE|PersonType||BNF|Beneficiary|Y|Y|GRISMO|NEW_BNF_001
+MERGE|PersonType||CANCELED_HIRE|Canceled Hire|Y|Y|GRISMO|NEW_CANCELED_HIRE_001
+MERGE|PersonType||CON|Contact|Y|Y|GRISMO|NEW_CON_001
+MERGE|PersonType||CWK|Contingent Worker|Y|Y|GRISMO|NEW_CWK_001
+MERGE|PersonType||CWK|Contract Staff|Y|N|GRISMO|NEW_CWK_002
+MERGE|PersonType||DE_CONSULTANT|Consultant|Y|Y|GRISMO|NEW_DE_CONSULTANT_001
+MERGE|PersonType||DE_FREELANCER|Freelancer|Y|Y|GRISMO|NEW_DE_FREELANCER_001
+MERGE|PersonType||DE_RETIREE|Retiree paid a pension by the employer|Y|Y|GRISMO|NEW_DE_RETIREE_001
+MERGE|PersonType||DP|Domestic Partner|Y|Y|GRISMO|NEW_DP_001
+MERGE|PersonType||DPNT|Dependent|Y|Y|GRISMO|NEW_DPNT_001
+MERGE|PersonType||EMP|Employee|Y|Y|GRISMO|NEW_EMP_002
+MERGE|PersonType||EMP|Permanent Employee|Y|N|GRISMO|NEW_EMP_001
+MERGE|PersonType||EX_APL|Ex-applicant|Y|Y|GRISMO|NEW_EX_APL_001
+MERGE|PersonType||EX_CWK|Ex-contingent Worker|Y|Y|GRISMO|NEW_EX_CWK_001
+MERGE|PersonType||EX_EMP|Ex-employee|Y|Y|GRISMO|NEW_EX_EMP_001
+MERGE|PersonType||EX_NONW|Ex-nonworker|Y|Y|GRISMO|NEW_EX_NONW_001
+MERGE|PersonType||EX_PWK|Ex-pending worker|Y|Y|GRISMO|NEW_EX_PWK_001
+MERGE|PersonType||FRMR_DP|Former Domestic Partner|Y|Y|GRISMO|NEW_FRMR_DP_001
+MERGE|PersonType||FRMR_FMLY_MMBR|Former Family Member|Y|Y|GRISMO|NEW_FRMR_FMLY_MMBR_001
+MERGE|PersonType||FRMR_SPS|Former Spouse|Y|Y|GRISMO|NEW_FRMR_SPS_001
+MERGE|PersonType||FR_COMP_DIRECTOR|Company Director|Y|Y|GRISMO|NEW_FR_COMP_DIRECTOR_001
+MERGE|PersonType||FR_TRAINEE|Trainee|Y|Y|GRISMO|NEW_FR_TRAINEE_001
+MERGE|PersonType||NONW|Nonworker|Y|Y|GRISMO|NEW_NONW_001
+MERGE|PersonType||NONW_PAID|Nonworker Paid|Y|Y|GRISMO|NEW_NONW_PAID_001
+MERGE|PersonType||NONW_UNPAID|Nonworker Unpaid|Y|Y|GRISMO|NEW_NONW_UNPAID_001
+MERGE|PersonType||ORA_CANDIDATE|Recruiting Candidate|Y|Y|GRISMO|NEW_ORA_CANDIDATE_001
+MERGE|PersonType||ORA_PER_INTERN|Intern|Y|Y|GRISMO|NEW_ORA_PER_INTERN_001
+MERGE|PersonType||ORA_PER_NOT_MANAGED_BY_HR|Not Managed by HR|Y|Y|GRISMO|NEW_ORA_PER_NOT_MANAGED_BY_HR_001
+MERGE|PersonType||PENSIONER|Pensioner|Y|Y|GRISMO|NEW_PENSIONER_001
+MERGE|PersonType||PRJ|Project Person|Y|Y|GRISMO|NEW_PRJ_001
+MERGE|PersonType||PRTN|Participant|Y|Y|GRISMO|NEW_PRTN_001
+MERGE|PersonType||PWK|New Joiner|Y|N|GRISMO|NEW_PWK_001
+MERGE|PersonType||PWK|Pending Worker|Y|Y|GRISMO|NEW_PWK_002
+MERGE|PersonType||RETIREE|Retiree|Y|Y|GRISMO|NEW_RETIREE_001
+MERGE|PersonType||SPONSOR|Sponsor|Y|Y|GRISMO|NEW_SPONSOR_001
+MERGE|PersonType||SRVNG_DP|Surviving Domestic Partner|Y|Y|GRISMO|NEW_SRVNG_DP_001
+MERGE|PersonType||SRVNG_DPFM|Surviving Domestic Partner Family Member|Y|Y|GRISMO|NEW_SRVNG_DPFM_001
+MERGE|PersonType||SRVNG_FMLY_MMBR|Surviving Family Member|Y|Y|GRISMO|NEW_SRVNG_FMLY_MMBR_001
+MERGE|PersonType||SRVNG_SPS|Surviving Spouse|Y|Y|GRISMO|NEW_SRVNG_SPS_001
+MERGE|PersonType||VOLUNTEER|Volunteer|Y|Y|GRISMO|NEW_VOLUNTEER_001
+MERGE|PersonType||EMP|Probationary Employee|Y|N|GRISMO|NEW_EMP_003
+MERGE|PersonType||EMP|Fixed Term Employee|Y|N|GRISMO|NEW_EMP_004
+MERGE|PersonType||EMP|Part-Time Employee|Y|N|GRISMO|NEW_EMP_005
+MERGE|PersonType||EMP|Seasonal Employee|Y|N|GRISMO|NEW_EMP_006
+MERGE|PersonType||CWK|Temporary Staff|Y|N|GRISMO|NEW_CWK_003
+MERGE|PersonType||CWK|Agency Worker|Y|N|GRISMO|NEW_CWK_004
+MERGE|PersonType||CWK|Contingent Intern|Y|N|GRISMO|NEW_CWK_005
+MERGE|PersonType||PWK|Offer Accepted Joiner|Y|N|GRISMO|NEW_PWK_003
