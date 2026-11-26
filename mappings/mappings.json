@@ -1,0 +1,192 @@
+
+{
+  "PersonNumber": [
+    "Person Number",
+    "Employee ID",
+    "Employee Number"
+  ],
+  "StartDate": [
+    "Start Date",
+    "Date of Joining",
+    "Joining Date"
+  ],
+  "FirstName": [
+    "First Name",
+    "Given Name"
+  ],
+  "MiddleNames": [
+    "Middle Names",
+    "Middle Name"
+  ],
+  "LastName": [
+    "Last Name",
+    "Surname"
+  ],
+  "DateOfBirth": [
+    "Date of Birth",
+    "DOB"
+  ],
+  "BloodType": [
+    "Blood Type"
+  ],
+  "CountryCodeNumber": [
+    "Country Dial Code",
+    "Work Dial Code"
+  ],
+  "PhoneNumber": [
+    "Phone Number",
+    "Work Phone Number"
+  ],
+  "EmailAddress": [
+    "Personal Email",
+    "Work Email",
+    "Email Address",
+    "Email"
+  ],
+  "EmailType": [
+    "Email Type"
+  ],
+  "MaritalStatus": [
+    "Marital Status"
+  ],
+  "Sex": [
+    "Sex",
+    "Gender"
+  ],
+  "WorkerType": [
+    "Worker Type",
+    "Worker Category",
+    "WorkType",
+    "Work Type"
+  ],
+  "LegislationCode": [
+    "Legislation Code"
+  ],
+  "LegalEmployerName": [
+    "Legal Employer Name"
+  ],
+  "BusinessUnitName": [
+    "Business Unit"
+  ],
+  "ReportingManagerPersonNumber": [
+    "Reporting Manager Person Number"
+  ],
+  "ReportingManagerName": [
+    "Reporting Manager Name"
+  ],
+  "JobName": [
+    "Job Name",
+    "Designation",
+    "Job Title"
+  ],
+  "DepartmentName": [
+    "Department"
+  ],
+  "LocationName": [
+    "Location"
+  ],
+  "Nationality": [
+    "Nationality"
+  ],
+  "NationalIdentifierNumber": [
+    "National Identifier (10-digit test value)",
+    "National Identifier Number",
+    "National ID",
+    "Aadhaar",
+    "Aadhaar Number",
+    "Aadhaar Card Number",
+    "Aadhar",
+    "Aadhar Number"
+  ],
+  "AddressLine1": [
+    "Home Address",
+    "Address",
+    "Address as in Aadhaar card"
+  ],
+  "FatherName": [
+    "Father Name"
+  ],
+  "MotherName": [
+    "Mother Name"
+  ],
+  "SpouseName": [
+    "Spouse"
+  ],
+  "Disability": [
+    "Disability",
+    "Disability Type"
+  ],
+  "DisabilityDetails": [
+    "Disability Details",
+    "Disability Description",
+    "Description"
+  ],
+  "DisabilityCode": [
+    "Disability Code"
+  ],
+  "EffectiveEndDate": [
+    "Effective End Date"
+  ],
+  "PersonId": [
+    "Person ID"
+  ],
+  "OrganizationId": [
+    "Organization ID"
+  ],
+  "OrganizationName": [
+    "Organization Name"
+  ],
+  "OrganizationClassificationCode": [
+    "Organization Classification Code"
+  ],
+  "RegistrationId": [
+    "Registration ID"
+  ],
+  "RegistrationDate": [
+    "Registration Date"
+  ],
+  "RegistrationExpDate": [
+    "Registration Expiration Date",
+    "Registration Expiry Date"
+  ],
+  "Category": [
+    "Disability Category"
+  ],
+  "Degree": [
+    "Disability Degree"
+  ],
+  "QuotaFTE": [
+    "Quota FTE"
+  ],
+  "Reason": [
+    "Disability Reason"
+  ],
+  "WorkRestriction": [
+    "Work Restriction"
+  ],
+  "Status": [
+    "Disability Status"
+  ],
+  "MaritalStatusDate": [
+    "Marital Status Date"
+  ],
+  "FullName": [
+    "Full Name"
+  ],
+  "_validation": {
+    "national_identifier": {
+      "country_field": "Nationality",
+      "allow_blank": true,
+      "country_rules": {
+        "Saudi Arabian": 10,
+        "Saudi Arabia": 10,
+        "SA": 10,
+        "SAU": 10,
+        "India": 12,
+        "Indian": 12,
+        "IN": 12,
+        "IND": 12
+      }
+    }
+  }
+}
